@@ -1,1 +1,1 @@
-# CSC305-App
+# Budget Buddy
