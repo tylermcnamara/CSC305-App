@@ -46,7 +46,7 @@ If a group member can not attend a project either in person or virutally, they m
 Some legitimate reasons for being absent could be for family or medical reasons. The missing member will communicate with other group members so they can know what tasks they need to do.
 
 ## Assignments 
-While assignments are to be worked on togethe, they are graded as individual work--so as long as the group member does their part of the group portion, it is ultimately up to the indivudal group member to turn in their part online.
+While assignments are to be worked on together, they are graded as individual work--so as long as the group member does their part of the group portion, it is ultimately up to the indivudal group member to turn in their part online.
 
 ## Participation 
 We will be actively communicating in-person and virtually. Whether that be through in class project meetings, over text messages, or through a virtual call. 
