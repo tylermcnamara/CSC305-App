@@ -100,6 +100,14 @@ In terms of notes from the meeting, we will make sure to inform the group member
 ### Cell Phone Usage
 As stated by Dr.Fay-Wolfe there will be no phones out during project meetings.
 
+## Signatures
+Name | Signature
+------------- | -------------
+Tyler McNamara | blank
+Summer Lizarda | blank
+Nathan Lichtenfels | blank
+Jason Li | ![Jason's Signature](signatures/jasonli_signature.jpg)
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
