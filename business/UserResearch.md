@@ -7,9 +7,9 @@
   * Supporting Data: The userbase of our survey largely make < $50,000, with 61.2% of respondants making < $10,000 and 25.4% of respondents making $10,000 - $50,000.
   * Team Action: To encourage tight spending habits via in-app design and designing features and services around small-scale incomes.
 * Observation 3:
-  * Observation Statement:
-  * Supporting Data:
-  * Team Action:
+  * Observation Statement: Atleast half of the participants of the survey would like to have an option for either having a light or dark theme for our budgeting app.
+  * Supporting Data: We had a total of 67 participants respond to our survey. With 50.7% of survey participants or 34 people chose "An Option for Both" where as 41.8% of survey participants or 28 people wanted a dark theme. With the remaing percentage of 7.5% of survey participants or 5 people wanting a light theme.
+  * Team Action: We will give the user the option to choose what theme they like for the app, making sure all of the text and graphics of each screen of the app can automatiicaly adjust to this change as well.
 * Observation 4:
   * Observation Statement: Most people do not use a bugeting app, mainly because they cost money to be beneficial. Also, some participants dont trust budget apps with their banking credentials. 
   * Supporting Data: 76.1% of partcipants do not use a budgeting app. The two most common reasons why were that they cost money and arent trustworthy.
