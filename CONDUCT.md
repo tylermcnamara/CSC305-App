@@ -1,4 +1,3 @@
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -54,16 +53,21 @@ We will be actively communicating in-person and virtually. Whether that be throu
 ## Meeting Times and Locations/Mediums 
 We will meet every Monday, Tuesday, and Thursday during class time. In addtion to this we will also be meeting every Fridays virtually over Discord at 3:30 PM.
 
-In terms of notes from the meeting, we will make sure to inform the group member who is absent from the meeting of anything they need to do.
+## Agenda and Minutes/Notes 
 
-## Cell Phone Usage
-As stated by Dr. Fay-Wolfe, there will be no phones out during project meetings.
+In terms of notes from the meeting, we will share a collective responsibility to inform the group member who is absent from the meeting of anything they need to do, with each member taking notes and providing them to the absent member.
+
+## Promptness
+
+We will require promptness and participation from every meeting, with a five minute grace period to allow for late attendees without prior notice. We expect all team members to let the team know in advance if they expect to be late.
+
+## Conversational Courtesies
+
+As stated by Dr. Fay-Wolfe, there will be no phones out during project meetings. We will allow each team member to speak in turn with equal value and encourage students to let others conclude their points without interruption.
 
 ## Enforcement
 
-An instance of abusive, harassing, or otherwise unacceptable behavior may be reported to the SCRUM master:
-tyler_mcnamara@uri.edu
-All complaints will be reviewed and investigated promptly and fairly.
+An instance of abusive, harassing, or otherwise unacceptable behavior may be reported to the SCRUM master: tyler_mcnamara@uri.edu. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
@@ -76,27 +80,6 @@ The SCRUM master will follow these Community Impact Guidelines in determining th
 **Group Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
-
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within the community.
 
 ## Signatures
 Name | Signature
