@@ -76,6 +76,30 @@ private interaction with the people involved, including unsolicited interaction 
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
 
+## Additionals Conduct Standards
+
+### Decisions 
+As a group we will make descions based on a majority rule.
+
+### Attendance 
+If a group member can not attend a project either in persoon or virutally, they must inform the group ahead of time. We expect that groupmembers are present for at least one group meeting each week.
+
+Some legitimate reasons for being absent could be for family or medical reasons. The missing member will communicate with other group members so they can know what tasks they need to do.
+
+### Assignments 
+While assignments are to be worked on together. They are graded on indivudal work so as long as the group member does their part of the group portion, it is ultimatenly up to the indivudal group member to turn in their part online.
+
+### Participation 
+We will be actively comunicating in person and virtually.  Whether that be through in class project meetings, over text messages, or through a virtual call. 
+
+### Meeting Times and Locations/Mediums 
+We will meet every Monday, Tuesday, and Thursday during class time.  In addtion to this we will also be meeting every Fridays virtually at 3:30 PM.
+
+In terms of notes from the meeting, we will make sure to inform the group member who is absent from the meeting of anything they need to do.
+
+### Cell Phone Usage
+As stated by Dr.Fay-Wolfe there will be no phones out during project meetings.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
