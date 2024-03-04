@@ -106,7 +106,7 @@ Name | Signature
 Tyler McNamara | blank
 Summer Lizarda | blank
 Nathan Lichtenfels | blank
-Jason Li | <img src="signatures/jasonli_signature.jpg" alt="Jason's Signature" width="100" height="100"/>
+Jason Li | <img src="signatures/jasonli_signature.jpg" alt="Jason's Signature" height="100"/>
 
 ## Attribution
 
