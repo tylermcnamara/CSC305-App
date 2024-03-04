@@ -103,7 +103,7 @@ Name | Signature
 ------------- | -------------
 Tyler McNamara | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Tyler's Signature" height="100"/>
 Summer Lizarda | ![Summer's Signature](https://github.com/tylermcnamara/CSC305-BudgetBuddy/src/summerSig.png)
-Nathan Lichtenfels | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Nathan's Signature" height="100"/>
+Nathan Lichtenfels | ![Nathan's Signature](https://github.com/tylermcnamara/CSC305-BudgetBuddy/src/nathanSig.png)
 Jason Li | <img src="signatures/jasonli_signature.jpg" alt="Jason's Signature" height="100"/>
 
 ## Attribution
