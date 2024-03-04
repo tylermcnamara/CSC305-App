@@ -106,7 +106,7 @@ Name | Signature
 Tyler McNamara | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Tyler's Signature" height="100"/>
 Summer Lizarda | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Summer's Signature" height="100"/>
 Nathan Lichtenfels | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Nathan's Signature" height="100"/>
-Jason Li | <img src="signatures/jasonli_signature.jpg" alt="Jason's Signature" height="100"/>
+Jason Li | <img src="" alt="Jason's Signature" height="100"/>
 
 ## Attribution
 
