@@ -37,6 +37,28 @@ We, as a group, have the right and responsibility to remove, edit, or reject com
 
 This Code of Conduct applies within all organization spaces, and also applies when an individual represents the community in public spaces. Examples of representing our community include using an official email address, posting inn our Discord, or acting as an appointed representative at an online or offline event.
 
+## Decisions 
+As a group we will make descions based on a majority rule.
+
+## Attendance 
+If a group member can not attend a project either in person or virutally, they must inform the group ahead of time. We expect that each group member are be for at least one group meeting each week.
+
+Some legitimate reasons for being absent could be for family or medical reasons. The missing member will communicate with other group members so they can know what tasks they need to do.
+
+## Assignments 
+While assignments are to be worked on togethe, they are graded as individual work--so as long as the group member does their part of the group portion, it is ultimately up to the indivudal group member to turn in their part online.
+
+## Participation 
+We will be actively communicating in-person and virtually. Whether that be through in class project meetings, over text messages, or through a virtual call. 
+
+## Meeting Times and Locations/Mediums 
+We will meet every Monday, Tuesday, and Thursday during class time. In addtion to this we will also be meeting every Fridays virtually over Discord at 3:30 PM.
+
+In terms of notes from the meeting, we will make sure to inform the group member who is absent from the meeting of anything they need to do.
+
+## Cell Phone Usage
+As stated by Dr. Fay-Wolfe, there will be no phones out during project meetings.
+
 ## Enforcement
 
 An instance of abusive, harassing, or otherwise unacceptable behavior may be reported to the SCRUM master:
@@ -76,35 +98,11 @@ private interaction with the people involved, including unsolicited interaction 
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
 
-## Additionals Conduct Standards
-
-### Decisions 
-As a group we will make descions based on a majority rule.
-
-### Attendance 
-If a group member can not attend a project either in persoon or virutally, they must inform the group ahead of time. We expect that groupmembers are present for at least one group meeting each week.
-
-Some legitimate reasons for being absent could be for family or medical reasons. The missing member will communicate with other group members so they can know what tasks they need to do.
-
-### Assignments 
-While assignments are to be worked on together. They are graded on indivudal work so as long as the group member does their part of the group portion, it is ultimatenly up to the indivudal group member to turn in their part online.
-
-### Participation 
-We will be actively comunicating in person and virtually.  Whether that be through in class project meetings, over text messages, or through a virtual call. 
-
-### Meeting Times and Locations/Mediums 
-We will meet every Monday, Tuesday, and Thursday during class time.  In addtion to this we will also be meeting every Fridays virtually at 3:30 PM.
-
-In terms of notes from the meeting, we will make sure to inform the group member who is absent from the meeting of anything they need to do.
-
-### Cell Phone Usage
-As stated by Dr.Fay-Wolfe there will be no phones out during project meetings.
-
 ## Signatures
 Name | Signature
 ------------- | -------------
 Tyler McNamara | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Tyler's Signature" height="100"/>
-Summer Lizarda | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Summer's Signature" height="100"/>
+Summer Lizarda | ![Summer's Signature](https://github.com/tylermcnamara/CSC305-BudgetBuddy/src/summerSig.png)
 Nathan Lichtenfels | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Nathan's Signature" height="100"/>
 Jason Li | <img src="" alt="Jason's Signature" height="100"/>
 
