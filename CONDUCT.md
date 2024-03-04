@@ -102,7 +102,7 @@ private interaction with the people involved, including unsolicited interaction 
 Name | Signature
 ------------- | -------------
 Tyler McNamara | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Tyler's Signature" height="100"/>
-Summer Lizarda | ![Summer's Signature](https://github.com/tylermcnamara/CSC305-BudgetBuddy/src/summerSig.png)
+Summer Lizarda | <img src="src/summerSig.png" alt="Summer's Signature" height="100"/>
 Nathan Lichtenfels | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Nathan's Signature" height="100"/>
 Jason Li | <img src="signatures/jasonli_signature.jpg" alt="Jason's Signature" height="100"/>
 
