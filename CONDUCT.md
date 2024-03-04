@@ -101,7 +101,7 @@ private interaction with the people involved, including unsolicited interaction 
 ## Signatures
 Name | Signature
 ------------- | -------------
-Tyler McNamara | <img src="https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg" alt="Tyler's Signature" height="100"/>
+Tyler McNamara | <img src="src/signature.png" alt="Tyler's Signature" height="100"/>
 Summer Lizarda | <img src="src/summerSig.png" alt="Summer's Signature" height="100"/>
 Nathan Lichtenfels | <img src="src/nathanSig.png" alt="Nathan's Signature" height="100"/>
 Jason Li | <img src="src/jasonli_signature.jpg" alt="Jason's Signature" height="100"/>
