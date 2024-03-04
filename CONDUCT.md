@@ -45,7 +45,9 @@ If a group member can not attend a project either in person or virutally, they m
 Some legitimate reasons for being absent could be for family or medical reasons. The missing member will communicate with other group members so they can know what tasks they need to do.
 
 ## Assignments 
-While assignments are to be worked on together, they are graded as individual work--so as long as the group member does their part of the group portion, it is ultimately up to the indivudal group member to turn in their part online.
+While assignments are to be worked on together, they are graded as individual work--so as long as the group member does their part of the group portion, it is ultimately up to the individual group member to turn in their part online.
+
+If a student fails to live up to group exptectations and turns in work late or poorly made, they will be warned via the rule enforcement policies outlined below, with the rest of the group collectively adjusting for it.
 
 ## Participation 
 We will be actively communicating in-person and virtually. Whether that be through in class project meetings, over text messages, or through a virtual call. 
@@ -55,7 +57,7 @@ We will meet every Monday, Tuesday, and Thursday during class time. In addtion t
 
 ## Agenda and Minutes/Notes 
 
-In terms of notes from the meeting, we will share a collective responsibility to inform the group member who is absent from the meeting of anything they need to do, with each member taking notes and providing them to the absent member.
+The group will share a collective responsibility to inform the group member who is absent from the meeting of anything they need to do, with each member taking notes and providing them to the absent member.
 
 ## Promptness
 
