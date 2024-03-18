@@ -51,14 +51,60 @@
             "type": "Image",
             "translatedName": "Image",
             "properties": {
+                "Picture": "parakeet.png",
+                "resizeMode": "stretch",
+                "Height": 50,
+                "Width": 50,
+                "Visible": true,
+                "X": 164,
+                "Y": 34,
+                "RelativeX": 164,
+                "RelativeY": 34,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "28.666666666666668%",
+                    "top": "2.6386769993909294%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "7a57492d-a610-4089-ac37-fb07dccaff9b",
+                "position": "absolute",
+                "edgeOffsets": 34
+            },
+            "children": [],
+            "id": "1894b54a-c2b8-4ac6-9ef6-4058b8bfd23d",
+            "thunkableVersion": 448,
+            "name": "imageWelcomeBudgie"
+        },
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
                 "Picture": "menubar.png",
                 "resizeMode": "stretch",
                 "Height": 37,
                 "Width": 315,
                 "Visible": true,
-                "X": 29,
+                "X": 27,
                 "Y": 614,
-                "RelativeX": 29,
+                "RelativeX": 27,
                 "RelativeY": 614,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -83,7 +129,6 @@
                     "top": "69.69515730416042%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "7a57492d-a610-4089-ac37-fb07dccaff9b",
                 "position": "absolute",
                 "edgeOffsets": 614
@@ -91,7 +136,7 @@
             "children": [],
             "id": "a70b52b2-bba8-4e34-86a7-e2234c793304",
             "thunkableVersion": 448,
-            "name": "Image1"
+            "name": "imageWelcomeHud"
         },
         {
             "type": "Label",
@@ -116,7 +161,6 @@
                     "color": "rgba(112, 171, 19, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -183,7 +227,6 @@
                     "color": "rgba(112, 171, 19, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -250,7 +293,6 @@
                     "color": "rgba(112, 171, 19, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -358,51 +400,6 @@
             "id": "e9061080-9514-4b2d-936d-5287abbedb30",
             "thunkableVersion": 447,
             "name": "labelWelcome"
-        },
-        {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "Picture": "BudgetBuddyLogo(G).png",
-                "resizeMode": "stretch",
-                "Height": 46,
-                "Width": 340,
-                "Visible": true,
-                "X": 18,
-                "Y": 49,
-                "RelativeX": 18,
-                "RelativeY": 49,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "30%",
-                    "top": "13.193403298350825%",
-                    "display": "flex"
-                },
-                "ParentId": "7a57492d-a610-4089-ac37-fb07dccaff9b",
-                "position": "absolute",
-                "edgeOffsets": 49
-            },
-            "children": [],
-            "id": "0d98bfae-22e2-4b9d-9e0e-0118812cb3f0",
-            "thunkableVersion": 447,
-            "name": "Logo_CreateAccount"
         }
     ],
     "id": "7a57492d-a610-4089-ac37-fb07dccaff9b",
