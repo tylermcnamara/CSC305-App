@@ -1,0 +1,205 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": []
+                }
+            },
+            "assets": {
+                "65f885a24904614c595eee92": {
+                    "name": "BudgetBuddyLogo(G).png",
+                    "originalname": "BudgetBuddyLogo(G).png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65aebd94b1e794aa09d9ac3d/projects/65f885a24904614c595eee8f/assets/65f885a24904614c595eee92",
+                    "backendURI": "/project/65f885a24904614c595eee8f/getasset/65f885a24904614c595eee92",
+                    "size": "15535",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65f885a24904614c595eee92",
+                    "createdAt": "2024-03-07T16:36:37.535Z",
+                    "updatedAt": "2024-03-07T16:36:37.535Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd94b1e794aa09d9ac3d/projects/65f885a24904614c595eee8f/assets/65f885a24904614c595eee92?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240318%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240318T181917Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9ff8771d1e21c27346d7b1f4cf51c17d5dbee269855e3ec1d69e2511ad410be3c14dc900b7fa6ed7296a9664b3220fb56b6fd46a7238a09b30e044627a2c936fbb4ebf3b92432e35a6b7324d52833f5370b346996105aaa321c04486a6f48ca4266d4c6dceef13d0906fdc197c17f5e0686d42c16ef48ad01a1a315cb2a658b1b3b6289259d5b286d75b9fe514c19b9508522f539aeee72f27b0ba33ee3aaa904e5782b023e2881462d37a1edd022fc99d31e6a6a93a898477961f994efb0e5a15cbf524f1ffcacde6200171c680bfad5121c4707bb0738cc6b26ef9c37e7bb182750c1df28bd75e69cae90040cb7c9a45f49e1a868db7f974c2ecaa045c173b",
+                    "signedUrlExpirationTime": 1710958757060
+                },
+                "65f885a24904614c595eee94": {
+                    "name": "BudgetBuddyLogo(W).png",
+                    "originalname": "BudgetBuddyLogo(W).png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65aebd94b1e794aa09d9ac3d/projects/65f885a24904614c595eee8f/assets/65f885a24904614c595eee94",
+                    "backendURI": "/project/65f885a24904614c595eee8f/getasset/65f885a24904614c595eee94",
+                    "size": "15506",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65f885a24904614c595eee94",
+                    "createdAt": "2024-03-07T16:36:40.004Z",
+                    "updatedAt": "2024-03-07T16:36:40.004Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd94b1e794aa09d9ac3d/projects/65f885a24904614c595eee8f/assets/65f885a24904614c595eee94?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240318%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240318T181917Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5e93fe0bae21e3801297d45cda35defb8f34dcb143b00bf74280402b1d028bb60bebe1ff7e0bd6379319d44ccc0fb8199756325fa027aff3677eb3a0dcd2464ffded26bd132d027af35ec370c202bb39137e388f7b28d5591d530cdcb9a824fd6b5efce616cb645933498bfaa7ba98d46d6b901c25ad25de840ee864d9cdc05b95b843b60a6973963a79f50d62d9e40159c7e000dfa853d1109f3ababfc607a0134796a9a641e338f3b438bf06dcf4a7d9d85e88b97a4b76e85ce184e9e2deb3cada2888efbe27faa67277d283848fa70fd543afda968973017fc48a07b33aca09dd72375e4a4fb3795fc7ddf74b7d711f62bae02e3f7b54503be85913132e4a",
+                    "signedUrlExpirationTime": 1710958757063
+                },
+                "65f8895995258c5703d7b788": {
+                    "externalStorageType": "GCS",
+                    "_id": "65f8895995258c5703d7b788",
+                    "size": "6023",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "menubar.png",
+                    "backendURI": "/project/65f885a24904614c595eee8f/getasset/65f8895995258c5703d7b788",
+                    "name": "menubar.png",
+                    "externalName": "users/65aebd94b1e794aa09d9ac3d/projects/65f885a24904614c595eee8f/assets/65f8895995258c5703d7b788",
+                    "createdAt": "2024-03-18T18:35:05.467Z",
+                    "updatedAt": "2024-03-18T18:35:05.467Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd94b1e794aa09d9ac3d/projects/65f885a24904614c595eee8f/assets/65f8895995258c5703d7b788?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240318%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240318T183505Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=02679e154e318171e2cee04d45e1cd7badd7b8b2f830380ad04c60152d42f78b09bde89f080d0e795b3f005b52a2d16c71b463065aea22a0f6a8510ec3231b96dc4f42abe053d98bbb06439876c404f92f4bfc186f777e51ccb441232af9faa8e88598061e33d811d3131347230eef4706a19a53c5918967e64f39e01577864c587735d4f1efc94c7d81fd0ef1265e0e6907c62874efa43f6fb65899d1c00d9d33499908d0fa87f4ff7608edabbfa2ffa5c49f3a580a96a4b412ece83f7218cf0269793d2dbee5fe5bdbbea521e31f8520694c8940c85478ed13a435490ec9ccebf2e31d2c6954e33454463bcb1fb5e1c8df8b6690e69eb8525be2089bba65f1",
+                    "signedUrlExpirationTime": 1710959705498
+                }
+            },
+            "backendUpgradeVersion": 24,
+            "blockly": {},
+            "categories": [
+                "Education"
+            ],
+            "components": {
+                "children": [
+                    {
+                        "id": "1c212036-34a8-4b3d-af26-13dd9fe84e13"
+                    },
+                    {
+                        "id": "6c6e65a1-b3eb-430b-90c6-6daac1ff2dce"
+                    },
+                    {
+                        "id": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                    },
+                    {
+                        "id": "7b1ea2f9-507f-4a2b-b490-fe3d1a328953"
+                    },
+                    {
+                        "id": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf"
+                    },
+                    {
+                        "id": "1bf1af17-7ffe-4227-987c-a267f00d5391"
+                    },
+                    {
+                        "id": "e1b5ab3d-0471-4eda-bc6e-9d7f45d04c12"
+                    },
+                    {
+                        "id": "e1cac98f-fd43-429a-bec7-b63abc2088bc"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "3/18 BUDGET BUDDY WIREFRAME",
+            "settings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "7",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {},
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
