@@ -86,10 +86,10 @@ The SCRUM master will follow these Community Impact Guidelines in determining th
 ## Signatures
 Name | Signature
 ------------- | -------------
-Tyler McNamara | <img src="src/tylerSig.png" alt="Tyler's Signature" height="100"/>
-Summer Lizarda | <img src="src/summerSig.png" alt="Summer's Signature" height="100"/>
-Nathan Lichtenfels | <img src="src/nathanSig.png" alt="Nathan's Signature" height="100"/>
-Jason Li | <img src="src/jasonli_signature.jpg" alt="Jason's Signature" height="100"/>
+Tyler McNamara | <img src="business/tylerSig.png" alt="Tyler's Signature" height="100"/>
+Summer Lizarda | <img src="business/summerSig.png" alt="Summer's Signature" height="100"/>
+Nathan Lichtenfels | <img src="business/nathanSig.png" alt="Nathan's Signature" height="100"/>
+Jason Li | <img src="business/jasonli_signature.jpg" alt="Jason's Signature" height="100"/>
 
 ## Attribution
 
