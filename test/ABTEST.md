@@ -35,3 +35,4 @@ Variation B (Test) will introduce an additional onboarding step where users are 
 For both variations, mockups and design work will focus on clarity, ease of navigation, and providing information about data security and privacy. Our team will create user interface mockups that highlight the differences in the onboarding process, focusing on simplicity and minimizing user effort.
 
 This A/B test plan aims to validate the hypothesis that reducing friction during the onboarding process through the use of Plaid API connectivity will positively impact user adoption and retention, providing a clearer path to improving the overall user experience.
+- - - -
