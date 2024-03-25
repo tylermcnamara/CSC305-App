@@ -3,6 +3,7 @@
 - Metric: Engagement
 - Hypothesis: Since users can see their total amount in their weekly budget in a doughnut chart, I hypothesize that users would rather have a doughnut chart than a pie chart with their total below the chart.
 - - - -
+
 - A/B Test Name: Plaid API Integration vs Manual Entry
 - User Story Number: US4
 - Metric:  Adoption (from the HEART framework), specifically focusing on onboarding completion rates and user retention rates after 30 days.
@@ -37,7 +38,6 @@ For both variations, mockups and design work will focus on clarity, ease of navi
 This A/B test plan aims to validate the hypothesis that reducing friction during the onboarding process through the use of Plaid API connectivity will positively impact user adoption and retention, providing a clearer path to improving the overall user experience.
 - - - -
 
-
 - A/B Test Name: Light Mode/Dark Mode
 - User Story Number: 5
 - Metric (from the HEART grid): Happiness
@@ -63,3 +63,21 @@ This A/B test plan aims to validate the hypothesis that reducing friction during
 
 ![Light Mode](https://i.imgur.com/cJQUMa7.png)
 ![Dark Mode](https://i.imgur.com/0akoVdA.png)
+- - - - 
+
+- A/B Test Name: 2Factor Authentication Setup
+- User Story Number: 7
+- Metric (from the HEART grid): Happiness
+- Hypothesis: The problem with 2 factor authentication setup is that some users may not want to setup 2FA during account creation, or might not want to set it up at all. This could have a negative effect on user enjoyment during sign up, turning them away from using the app
+
+- This can impact the happiness metric and potentially accounts created. Offering an option to skip 2FA setup during sign up could lead to a more positive experience for users, and lead to more users following through with sign up.
+
+- Experiment - For this experiment, we will utilize Firebase capabilities to conduct the A/B test. The experiment will involve presenting users with two variations: the control group will continue to require 2FA setup, while the experimental group will be provided with the option to skip 2FA setup. 
+
+- 50% of our user base will exist as tbe experimental group, while the remaining 50% will serve as the control group. This split will allow us to compare the performance of the two variations effectively and in as large a split as possible.
+- By allocating equal proportions of users to each group, we ensure a balanced representation of our user base in both the control and experimental groups, so we can make fair comparisons between the two variations and draw reliable conclusions from the experiment results.
+
+Variations - 
+
+  - Forced 2FA: A user will be prompted to set up 2FA with either a phone number or a 2FA app
+  - Optional 2FA: A user will be given the same 2FA setup prompt, but will be offered the option of "skip for now". Post sign up, a user will be able to set up/change 2FA in the profile settings
