@@ -61,3 +61,5 @@ This A/B test plan aims to validate the hypothesis that reducing friction during
 - In this variation, users will be provided with a toggle switch or button within the app settings or interface to switch between light mode and dark mode.
 - The dark mode interface will feature darker backgrounds and lighter text colors to reduce eye strain in low-light environments.
 
+![Light Mode](https://i.imgur.com/cJQUMa7.png)
+![Dark Mode](https://i.imgur.com/0akoVdA.png)
