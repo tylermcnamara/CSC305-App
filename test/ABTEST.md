@@ -2,7 +2,7 @@
 - User Story Number: UI/UX Design
 - Metric: Engagement
 - Hypothesis: Since users can see their total amount in their weekly budget in a doughnut chart, I hypothesize that users would rather have a doughnut chart than a pie chart with their total below the chart.
-
+- - - -
 - A/B Test Name: Plaid API Integration vs Manual Entry
 - User Story Number: US4
 - Metric:  Adoption (from the HEART framework), specifically focusing on onboarding completion rates and user retention rates after 30 days.
