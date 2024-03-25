@@ -32,6 +32,6 @@ These metrics will provide insight into how the method of financial account conn
 
 Variation A (Control) will utilize the standard onboarding flow, with screens guiding users to manually input their financial details, such as account numbers and balances.
 Variation B (Test) will introduce an additional onboarding step where users are presented with the option to connect their financial accounts using Plaid. This variation will include a brief explanation of the benefits of using Plaid for data security and convenience, alongside consent forms as required for data sharing.
-For both variations, mockups and design work will focus on clarity, ease of navigation, and providing information about data security and privacy. The design team will create user interface mockups that highlight the differences in the onboarding process, focusing on simplicity and minimizing user effort.
+For both variations, mockups and design work will focus on clarity, ease of navigation, and providing information about data security and privacy. Our team will create user interface mockups that highlight the differences in the onboarding process, focusing on simplicity and minimizing user effort.
 
 This A/B test plan aims to validate the hypothesis that reducing friction during the onboarding process through the use of Plaid API connectivity will positively impact user adoption and retention, providing a clearer path to improving the overall user experience.
