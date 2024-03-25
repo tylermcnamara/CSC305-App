@@ -36,3 +36,28 @@ For both variations, mockups and design work will focus on clarity, ease of navi
 
 This A/B test plan aims to validate the hypothesis that reducing friction during the onboarding process through the use of Plaid API connectivity will positively impact user adoption and retention, providing a clearer path to improving the overall user experience.
 - - - -
+
+
+- A/B Test Name: Light Mode/Dark Mode
+- User Story Number: 5
+- Metric (from the HEART grid): Happiness
+- Hypothesis: The problem is that users may experience eye strain or discomfort when using the current light mode interface, potentially affecting their overall happiness and satisfaction with the product. The impact is that eye strain and discomfort caused by prolonged exposure to bright screens can lead to decreased user engagement and satisfaction.
+
+- This can impact the overall happiness metric and potentially even retention. The hypothesis is that by offering users the option to switch between light mode and dark mode, we can reduce eye strain and discomfort for those uncomfortable with light mode interfaces, thereby improving user happiness and satisfaction with the product.
+
+- Experiment - For this experiment, we will utilize Firebase capabilities to conduct the A/B test. The experiment will involve presenting users with two variations: the control group will continue to use the existing light mode interface, while the experimental group will be provided with the option to switch between light mode and dark mode. 
+
+- Initially, we will allocate 50% of our user base to the experimental group, while the remaining 50% will serve as the control group. This split will allow us to compare the performance of the two variations effectively and in as large a split as possible.
+- By allocating equal proportions of users to each group, we ensure a balanced representation of our user base in both the control and experimental groups, so we can make fair comparisons between the two variations and draw reliable conclusions from the experiment results.
+- To measure the success metrics accurately, we will set up tracking using Firebase Analytics, measuring certain metrics to determine the happiness of users that engage with the app. The key metrics to track include:
+  - User engagement: Monitor user interactions such as session duration, screen views, and actions taken within the app to assess overall engagement levels as they use the app - and interact with their requisite interface.
+  - User satisfaction: Implement surveys or feedback mechanisms within the app to gather user sentiment regarding their experience with the light mode and dark mode interfaces and personal preference.
+  - Conversion rates: Track user behavior related to desired actions (e.g., sign-ups, purchases) to evaluate the impact of the interface variations on conversion rates between light mode and dark mode.
+
+- Variations -
+- Control Variation (Light Mode):
+- This variation represents the current light mode interface used by all users already, with an off-white background and green text.
+- Experimental Variation (Light Mode/Dark Mode Toggle):
+- In this variation, users will be provided with a toggle switch or button within the app settings or interface to switch between light mode and dark mode.
+- The dark mode interface will feature darker backgrounds and lighter text colors to reduce eye strain in low-light environments.
+
