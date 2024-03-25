@@ -4,5 +4,4 @@ https://docs.google.com/presentation/d/1A-qPgcx-icYyNXoERsiyRmmTzyUdMhBOk73gX8pt
 - Metric 2 - Friend Suggest - NPS - We will have a quick question once the user logs out where it will ask "How likely are you to recommend Budget Buddy to a friend?" From a scale of 1 - 10.
 - Metric 3 - Number of Users - Adoption - Firebase will keep track of how many users have signed up to make an account. We can track the growth and popularity of Budget Buddy though the amount of accounts have been made.
 - Metric 4 - User Retention Rate - Retention - Tracked by google analytics on our backend, we can track the percentage of new users that return each day for a chosen period of time. We can track this retention rate over different periods of time, and for different groups of users. 
-- Metric 5 - how to collect
-
+- Metric 5 - User Click-Through - CTR - Thunkable will track the number of clicks on specific features within the Budget Buddy app, such as buttons for financial tools or navigation elements. CTR will be calculated by dividing the number of clicks on a specific element by the number of times that the button to navigate to that menu was clicked on (i.e. clicks on budget upload divided by amount of times budget screen was effectively accessed).
