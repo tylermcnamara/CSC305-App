@@ -7,6 +7,7 @@
 - Experiment: The experiment will involve a random split of our user base, with 50% exposed to the pie chart visualization (Control Group) and the other 50% to the doughnut chart visualization (Experimental Group) when viewing their budget data. The experiment will run for a duration of 30 days to ensure a significant amount of data is collected across various user demographics and usage patterns. Only active users who interact with the budget feature during the experiment period will be included in the study to ensure relevance. We will use Firebase capabilities to segment users and track their interaction with the feature, as well as Firebase Analytics to collect data on user engagement levels and satisfaction ratings provided through in-app feedback mechanisms.
 
 - Variations: The Control Group will see their budget data presented in a traditional pie chart format, which segments their spending into categories with slices proportional to each category's spending. The Experimental Group will view their budget data in a doughnut chart format, offering a similar categorical breakdown but with a central open space that can be utilized to display additional summary data or improve visual clarity. Design mockups will be prepared for both variations, ensuring that all other variables remain constant except for the chart type. The design work will include user interface adjustments necessary to accommodate each chart type optimally and any changes to interactive elements such as tooltips or category selection feedback.
+![Pie Chart](https://image-charts.com/chart?chs=700x190&chd=t:60,40&cht=p3&chl=Food%7CGas&chan&chf=ps0-0,lg,45,ffeb3b,0.2,f44336,1|ps0-1,lg,45,8bc34a,0.2,009688,1)
 
 - - - -
 
@@ -18,7 +19,7 @@
 The primary challenge identified is the potential friction during the user onboarding process for an expense tracking app, specifically concerning the method by which users can connect their financial information. This friction could significantly impact user adoption rates, as the ease of onboarding directly affects a user's willingness to complete the setup process and their subsequent engagement with the app.
 
 The hypothesis is that providing users with the option to connect their financial accounts via Plaid API, compared to manually entering their financial information, will lead to higher onboarding completion rates and improved 30-day retention rates. This improvement is expected because the Plaid API connection simplifies the onboarding process by automating the data entry of financial information, which could reduce the effort and potential errors associated with manual data entry. Consequently, this ease of setup is anticipated to enhance the initial user experience, leading to better engagement and retention.
-![Pie Chart]([https://i.imgur.com/cJQUMa7.png](https://image-charts.com/chart?chs=700x190&chd=t:60,40&cht=p3&chl=Food%7CGas&chan&chf=ps0-0,lg,45,ffeb3b,0.2,f44336,1|ps0-1,lg,45,8bc34a,0.2,009688,1))
+
 
 - Experiment:
 The experiment will involve creating two variations of the onboarding process:
