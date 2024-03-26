@@ -1,7 +1,13 @@
 - A/B Test Name: Pie Chat/Doughnut Chart
-- User Story Number: UI/UX Design
-- Metric: Engagement
-- Hypothesis: Since users can see their total amount in their weekly budget in a doughnut chart, I hypothesize that users would rather have a doughnut chart than a pie chart with their total below the chart.
+- User Story Number: US5
+- Metric: Happiness
+  
+- Hypothesis: The hypothesis centers on improving the user experience by addressing how budget data visualization affects user happiness. It is believed that the visualization format of budget data (pie chart vs. doughnut chart) significantly impacts user satisfaction and understanding of their financial overview. The problem identified is that users may find one visualization type more intuitive and informative than the other, affecting their overall happiness with the app. By changing the budget data visualization from a pie chart to a doughnut chart (or vice versa), we anticipate an improvement in user happiness as measured by satisfaction surveys and increased engagement with the budgeting feature. This hypothesis is based on the assumption that clearer, more accessible data presentation can enhance user understanding and satisfaction.
+
+- Experiment: The experiment will involve a random split of our user base, with 50% exposed to the pie chart visualization (Control Group) and the other 50% to the doughnut chart visualization (Experimental Group) when viewing their budget data. The experiment will run for a duration of 30 days to ensure a significant amount of data is collected across various user demographics and usage patterns. Only active users who interact with the budget feature during the experiment period will be included in the study to ensure relevance. We will use Firebase capabilities to segment users and track their interaction with the feature, as well as Firebase Analytics to collect data on user engagement levels and satisfaction ratings provided through in-app feedback mechanisms.
+
+- Variations: The Control Group will see their budget data presented in a traditional pie chart format, which segments their spending into categories with slices proportional to each category's spending. The Experimental Group will view their budget data in a doughnut chart format, offering a similar categorical breakdown but with a central open space that can be utilized to display additional summary data or improve visual clarity. Design mockups will be prepared for both variations, ensuring that all other variables remain constant except for the chart type. The design work will include user interface adjustments necessary to accommodate each chart type optimally and any changes to interactive elements such as tooltips or category selection feedback.
+
 - - - -
 
 - A/B Test Name: Plaid API Integration vs Manual Entry
