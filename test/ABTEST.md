@@ -8,7 +8,7 @@
 
 - Variations: The Control Group will see their budget data presented in a traditional pie chart format, which segments their spending into categories with slices proportional to each category's spending. The Experimental Group will view their budget data in a doughnut chart format, offering a similar categorical breakdown but with a central open space that can be utilized to display additional summary data or improve visual clarity. Design mockups will be prepared for both variations, ensuring that all other variables remain constant except for the chart type. The design work will include user interface adjustments necessary to accommodate each chart type optimally and any changes to interactive elements such as tooltips or category selection feedback.
 ![Pie Chart](https://image-charts.com/chart?chs=700x190&chd=t:60,40&cht=p3&chl=Food%7CGas&chan&chf=ps0-0,lg,45,ffeb3b,0.2,f44336,1|ps0-1,lg,45,8bc34a,0.2,009688,1)
-
+![Doughnut Chart](https://image-charts.com/?chan=1200&chd=t%3A10%2C40%2C45&chdl=Expansion%7CPayroll%7CEquipment&chdlp=b&chf=b0%2Clg%2C90%2C68cefd%2C0%2C96a6ff%2C1&chl=10K%E2%82%AC%7C40K%E2%82%AC%7C45K&chli=95K%E2%82%AC&chma=0%2C0%2C0%2C10&chs=700x300&cht=pd&chtt=Expenses)](https://editor.image-charts.com/?chan=1200&chd=t%3A10%2C40%2C45&chdl=Expansion%7CPayroll%7CEquipment&chdlp=b&chf=b0%2Clg%2C90%2C68cefd%2C0%2C96a6ff%2C1&chl=10K%E2%82%AC%7C40K%E2%82%AC%7C45K&chli=95K%E2%82%AC&chma=0%2C0%2C0%2C10&chs=700x300&cht=pd&chtt=Expenses)
 - - - -
 
 - A/B Test Name: Plaid API Integration vs Manual Entry
