@@ -1,4 +1,4 @@
-**Coursiquity Unit Test Cases**
+**Budget Buddy Unit Test Cases**
 
 [US1: User Account Creation](https://docs.google.com/presentation/d/1juCefvGWZraraKu3PEZ1htOwFckCN3Txd_CibIj152s/edit?usp=sharing)
 
