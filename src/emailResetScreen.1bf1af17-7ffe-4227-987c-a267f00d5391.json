@@ -61,9 +61,9 @@
                 "Height": 55,
                 "Width": 170,
                 "Visible": true,
-                "X": 109,
+                "X": 104,
                 "Y": 342,
-                "RelativeX": 109,
+                "RelativeX": 104,
                 "RelativeY": 342,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -100,7 +100,7 @@
             "children": [],
             "id": "08d9ef43-d35f-46e3-840a-fcf42e4d752e",
             "thunkableVersion": 450,
-            "name": "Button3"
+            "name": "logOutButton"
         },
         {
             "type": "Group",

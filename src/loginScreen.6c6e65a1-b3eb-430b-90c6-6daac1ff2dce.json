@@ -432,7 +432,8 @@
                 "ParentId": "6c6e65a1-b3eb-430b-90c6-6daac1ff2dce",
                 "position": "absolute",
                 "edgeOffsets": 283,
-                "placeholder": "Enter Password"
+                "placeholder": "Enter Password",
+                "secureTextEntry": true
             },
             "children": [],
             "id": "a698b77b-d4fa-459b-be9c-184392c3e555",
