@@ -40,30 +40,153 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
+        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {}
     },
     "children": [
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "Smiley.png",
+                "resizeMode": "stretch",
+                "Height": 120,
+                "Width": 120,
+                "Visible": true,
+                "X": 130,
+                "Y": 83,
+                "RelativeX": 130,
+                "RelativeY": 83,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "61.52000325520833%",
+                    "top": "14.82259358601949%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "a6a36ab2-ba85-44dd-8eee-fca03f82b69f",
+                "position": "absolute",
+                "edgeOffsets": 83
+            },
+            "children": [],
+            "id": "7ad06fbf-9bda-43a4-b3c0-e69445f9047a",
+            "thunkableVersion": 450,
+            "name": "imageSmiley"
+        },
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "PLEASE RATE OUR APP, 1-10",
+                "FontSize": 16,
+                "Font": "Montserrat",
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(112, 171, 19, 1)",
+                "TextAlign": "center",
+                "Height": 25,
+                "Width": 353,
+                "Visible": true,
+                "X": 13,
+                "Y": 295,
+                "RelativeX": 13,
+                "RelativeY": 295,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(112, 171, 19, 1)",
+                    "fontSize": 16,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "22.160001627604167%",
+                    "top": "36.11194890835832%",
+                    "lineHeight": 1,
+                    "display": "flex",
+                    "textAlign": "center"
+                },
+                "ParentId": "a6a36ab2-ba85-44dd-8eee-fca03f82b69f",
+                "position": "absolute",
+                "edgeOffsets": 295,
+                "children": "PLEASE RATE OUR APP, 1-10"
+            },
+            "children": [],
+            "id": "071749b5-7aa8-4039-a899-e953e75dd52f",
+            "thunkableVersion": 450,
+            "name": "labelNPS"
+        },
         {
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "LOGOUT",
-                "TextColor": "rgba(255, 255, 255, 1)",
+                "Text": "Send",
+                "TextColor": "#FFFFFF",
                 "FontSize": 16,
                 "Font": "",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(112, 171, 19, 1)",
-                "Height": 55,
-                "Width": 170,
+                "Height": 51,
+                "Width": 93,
                 "Visible": true,
-                "X": 109,
-                "Y": 342,
-                "RelativeX": 109,
-                "RelativeY": 342,
+                "X": 141,
+                "Y": 513,
+                "RelativeX": 141,
+                "RelativeY": 513,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -84,22 +207,62 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "35.333333333333336%",
-                    "top": "51.36431418080023%",
+                    "left": "36.13333740234375%",
+                    "top": "62.34883046757871%",
                     "display": "flex"
                 },
                 "FontBold": false,
                 "FontItalic": false,
                 "Raised": false,
                 "Disabled": false,
-                "ParentId": "1bf1af17-7ffe-4227-987c-a267f00d5391",
+                "ParentId": "a6a36ab2-ba85-44dd-8eee-fca03f82b69f",
                 "position": "absolute",
-                "edgeOffsets": 342
+                "edgeOffsets": 513
             },
             "children": [],
-            "id": "08d9ef43-d35f-46e3-840a-fcf42e4d752e",
+            "id": "cf3cb33e-8764-4c91-b95e-403e2c9a9ccb",
             "thunkableVersion": 450,
-            "name": "Button3"
+            "name": "buttonNPSSend"
+        },
+        {
+            "type": "Rating",
+            "translatedName": "Rating",
+            "reactType": "Rating",
+            "properties": {
+                "Value": 0,
+                "Count": "10",
+                "Icon": {
+                    "selectedImage": "circfull.png",
+                    "emptyImage": "circempty.png"
+                },
+                "Visible": true,
+                "Direction": "row",
+                "ReadOnly": false,
+                "FontSize": 0,
+                "IconMargin": 1,
+                "RatingColor": "rgba(112, 171, 19, 1)",
+                "BackgroundColor": "rgba(167, 166, 154, 1)",
+                "Height": 40,
+                "Width": 300,
+                "X": 39,
+                "Y": 332,
+                "RelativeX": 39,
+                "RelativeY": 332,
+                "ResizeMode": "STRETCH",
+                "ParentId": "a6a36ab2-ba85-44dd-8eee-fca03f82b69f",
+                "position": "absolute",
+                "edgeOffsets": 332,
+                "style": {
+                    "position": "absolute",
+                    "left": "13.0933349609375%",
+                    "top": "28.405798321542353%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "2190e391-df17-4986-8325-937bbb3a9356",
+            "thunkableVersion": 450,
+            "name": "ratingNPS"
         },
         {
             "type": "Group",
@@ -180,10 +343,10 @@
                         "edgeOffsets": 512.9999999999999
                     },
                     "children": [],
-                    "id": "99c96176-a9cf-434e-8c73-dbd2e4499376",
+                    "id": "401a0ed7-b267-47de-a72b-f4ab6da44f37",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonProfile3"
+                    "name": "buttonProfile6"
                 },
                 {
                     "type": "Button",
@@ -235,10 +398,10 @@
                         "edgeOffsets": 513
                     },
                     "children": [],
-                    "id": "a7604b4b-8fbf-44cc-87a8-c3ba778c2457",
+                    "id": "297fdb5a-f6f9-4f2c-8fce-fb9641ecbbac",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonLight3"
+                    "name": "buttonLight6"
                 },
                 {
                     "type": "Button",
@@ -290,10 +453,10 @@
                         "edgeOffsets": 511
                     },
                     "children": [],
-                    "id": "711cfbc6-f260-4010-9c69-5b602c5ea2c6",
+                    "id": "2478360a-3150-4a35-9411-ac5c63336026",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonPie3"
+                    "name": "buttonPie6"
                 },
                 {
                     "type": "Button",
@@ -345,10 +508,10 @@
                         "edgeOffsets": 512.0000000000001
                     },
                     "children": [],
-                    "id": "a298f0c9-5672-41f2-9ff8-f98570abf368",
+                    "id": "1e0cd1a1-171e-45fb-a003-3ddd0142d7a7",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonList3"
+                    "name": "buttonList6"
                 },
                 {
                     "type": "Button",
@@ -400,9 +563,9 @@
                         "edgeOffsets": 511.9999999999999
                     },
                     "children": [],
-                    "id": "31270ca1-5133-4105-8b62-344eead422c5",
+                    "id": "6305ff8b-79cb-4103-8bd0-5f864010a723",
                     "thunkableVersion": 450,
-                    "name": "buttonHome3"
+                    "name": "buttonHome6"
                 },
                 {
                     "type": "Image",
@@ -446,9 +609,9 @@
                         "edgeOffsets": 519
                     },
                     "children": [],
-                    "id": "f13215b8-7e2f-4bbb-add0-203724263d6d",
+                    "id": "e87b7a3f-26b2-4ac3-8f47-857cfb807dcf",
                     "thunkableVersion": 450,
-                    "name": "imageProfile3"
+                    "name": "imageProfile6"
                 },
                 {
                     "type": "Image",
@@ -492,9 +655,9 @@
                         "edgeOffsets": 503.0000000000001
                     },
                     "children": [],
-                    "id": "539d544a-e6f7-4d38-a5a8-a681bb8d6948",
+                    "id": "a53ca947-381c-41fa-95c5-d7b91146dddc",
                     "thunkableVersion": 450,
-                    "name": "imageLight3"
+                    "name": "imageLight6"
                 },
                 {
                     "type": "Image",
@@ -538,9 +701,9 @@
                         "edgeOffsets": 494
                     },
                     "children": [],
-                    "id": "7120e0e9-68b1-45af-8105-e1d2a3dcfefc",
+                    "id": "3b28bf8c-c1f7-4c87-8220-3fcaee094a2c",
                     "thunkableVersion": 450,
-                    "name": "imagePie3"
+                    "name": "imagePie6"
                 },
                 {
                     "type": "Image",
@@ -584,9 +747,9 @@
                         "edgeOffsets": 527
                     },
                     "children": [],
-                    "id": "7111ad6e-7785-4c3a-8467-565d4a0996b5",
+                    "id": "73c844c3-dc4b-4b47-8bdb-21a4e3606041",
                     "thunkableVersion": 450,
-                    "name": "imageList3"
+                    "name": "imageList6"
                 },
                 {
                     "type": "Image",
@@ -630,252 +793,18 @@
                         "edgeOffsets": 519
                     },
                     "children": [],
-                    "id": "7cf72e46-6e9c-4cff-89fd-ef9f82ca7b8b",
+                    "id": "8b87a120-e835-4ae6-b990-9021f4eeda67",
                     "thunkableVersion": 450,
-                    "name": "imageHome3"
+                    "name": "imageHome6"
                 }
             ],
-            "id": "cecfdd9a-e616-42e8-a80a-eaebbf653f19",
+            "id": "46b7a78c-10e4-4b38-9a14-b6ef400ceba6",
             "thunkableVersion": 450,
             "bindings": null,
-            "name": "groupHud3"
-        },
-        {
-            "type": "Button",
-            "translatedName": "Button",
-            "properties": {
-                "Text": "RESET",
-                "TextColor": "rgba(255, 255, 255, 1)",
-                "FontSize": 16,
-                "Font": "",
-                "CustomFont": "",
-                "BackgroundColor": "rgba(112, 171, 19, 1)",
-                "Height": 51,
-                "Width": 176,
-                "Visible": true,
-                "X": 102,
-                "Y": 273,
-                "RelativeX": 102,
-                "RelativeY": 273,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "borderRadius": 15,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "42.8%",
-                    "top": "40.71963651963081%",
-                    "display": "flex"
-                },
-                "FontBold": false,
-                "FontItalic": false,
-                "Raised": false,
-                "Disabled": false,
-                "ParentId": "1bf1af17-7ffe-4227-987c-a267f00d5391",
-                "position": "absolute",
-                "edgeOffsets": 273
-            },
-            "children": [],
-            "id": "51826a64-6e98-45b0-96cd-853b77faea5c",
-            "thunkableVersion": 448,
-            "name": "Button2"
-        },
-        {
-            "type": "Label",
-            "translatedName": "Label",
-            "reactType": "Text",
-            "properties": {
-                "Text": "E-MAIL",
-                "FontSize": 18,
-                "Font": "",
-                "CustomFont": "",
-                "LineHeight": 1,
-                "Color": "rgba(112, 171, 19, 1)",
-                "TextAlign": "center",
-                "Height": 50,
-                "Width": 315,
-                "Visible": true,
-                "X": 34.80000305175781,
-                "Y": 150,
-                "RelativeX": 34.80000305175781,
-                "RelativeY": 150,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "color": "rgba(112, 171, 19, 1)",
-                    "fontSize": 18,
-                    "fontStyle": "normal",
-                    "textShadowOffset": {},
-                    "letterSpacing": 0,
-                    "textDecorationLine": "none",
-                    "textDecorationStyle": "solid",
-                    "textDecorationColor": "rgba(0, 0, 0, 1)",
-                    "writingDirection": "auto",
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "flexWrap": "wrap",
-                    "borderWidth": 0,
-                    "borderRadius": 0,
-                    "borderColor": "rgba(236, 237, 237, 1)",
-                    "borderStyle": "solid",
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "33.2%",
-                    "top": "16.58170548514805%",
-                    "lineHeight": 1,
-                    "display": "flex",
-                    "textAlign": "center"
-                },
-                "ParentId": "1bf1af17-7ffe-4227-987c-a267f00d5391",
-                "position": "absolute",
-                "edgeOffsets": 150.8000030517578,
-                "children": "E-MAIL"
-            },
-            "children": [],
-            "id": "1462600d-96af-4831-af31-d23d676ba69d",
-            "thunkableVersion": 448,
-            "name": "labelEmail"
-        },
-        {
-            "type": "TextInput",
-            "translatedName": "Text Input",
-            "properties": {
-                "Hint": "",
-                "CustomFont": "",
-                "Height": 37,
-                "Width": 311,
-                "Visible": true,
-                "X": 34,
-                "Y": 209,
-                "RelativeX": 34,
-                "RelativeY": 209,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "color": "rgba(0, 0, 0, 1)",
-                    "fontSize": 16,
-                    "fontStyle": "normal",
-                    "textShadowOffset": {},
-                    "letterSpacing": 0,
-                    "textDecorationLine": "none",
-                    "textDecorationStyle": "solid",
-                    "textDecorationColor": "rgba(0, 0, 0, 1)",
-                    "writingDirection": "auto",
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 15,
-                    "paddingRight": 0,
-                    "backgroundColor": "rgba(248, 249, 251, 100)",
-                    "borderWidth": 0,
-                    "borderRadius": 5,
-                    "borderColor": "rgba(0, 0, 0, 1)",
-                    "borderStyle": "solid",
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "19.6%",
-                    "top": "30.374808933423914%",
-                    "display": "flex"
-                },
-                "editable": true,
-                "onChangeText": "function(e){this.properties.Text=e}",
-                "placeholderTextColor": "rgba(117, 117, 117, 1)",
-                "clearButtonMode": "never",
-                "underlineColorAndroid": "rgba(0, 0, 0, 0)",
-                "ParentId": "1bf1af17-7ffe-4227-987c-a267f00d5391",
-                "position": "absolute",
-                "edgeOffsets": 209,
-                "placeholder": ""
-            },
-            "children": [],
-            "id": "ffb8b922-2309-450e-b523-fcedab956bf7",
-            "thunkableVersion": 448,
-            "name": "Text_Input1"
-        },
-        {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "Picture": "parakeet.png",
-                "resizeMode": "stretch",
-                "Height": 50,
-                "Width": 50,
-                "Visible": true,
-                "X": 164,
-                "Y": 34,
-                "RelativeX": 164,
-                "RelativeY": 34,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "28.666666666666668%",
-                    "top": "2.6386769993909294%",
-                    "display": "flex"
-                },
-                "capInsets": {},
-                "ParentId": "7a57492d-a610-4089-ac37-fb07dccaff9b",
-                "position": "absolute",
-                "edgeOffsets": 34
-            },
-            "children": [],
-            "id": "60a82409-b188-4560-9b10-a2882e988013",
-            "thunkableVersion": 448,
-            "bindings": null,
-            "name": "imageWelcomeBudgie3"
+            "name": "groupHud6"
         }
     ],
-    "id": "1bf1af17-7ffe-4227-987c-a267f00d5391",
-    "thunkableVersion": 448,
-    "name": "emailResetScreen"
+    "id": "a6a36ab2-ba85-44dd-8eee-fca03f82b69f",
+    "thunkableVersion": 450,
+    "name": "NPSScreen"
 }
