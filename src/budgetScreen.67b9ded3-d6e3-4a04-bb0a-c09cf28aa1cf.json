@@ -1,4 +1,5 @@
 {
+    "id": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1087,7 +1088,6 @@
             "name": "imageWelcomeBudgie2"
         }
     ],
-    "id": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
     "thunkableVersion": 448,
     "name": "budgetScreen"
 }

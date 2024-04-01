@@ -1,4 +1,5 @@
 {
+    "id": "1c212036-34a8-4b3d-af26-13dd9fe84e13",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -702,7 +703,6 @@
             "name": "Logo1"
         }
     ],
-    "id": "1c212036-34a8-4b3d-af26-13dd9fe84e13",
     "thunkableVersion": 448,
     "name": "accountCreationScreen"
 }

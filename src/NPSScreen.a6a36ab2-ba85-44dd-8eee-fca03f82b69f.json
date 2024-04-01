@@ -1,4 +1,5 @@
 {
+    "id": "a6a36ab2-ba85-44dd-8eee-fca03f82b69f",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -804,7 +805,6 @@
             "name": "groupHud6"
         }
     ],
-    "id": "a6a36ab2-ba85-44dd-8eee-fca03f82b69f",
     "thunkableVersion": 450,
     "name": "NPSScreen"
 }

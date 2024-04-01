@@ -523,7 +523,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "18",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -551,6 +551,21 @@
                     "scope": "STORED",
                     "name": "ratingNPS",
                     "screenId": "a6a36ab2-ba85-44dd-8eee-fca03f82b69f"
+                },
+                "8a58cd60-94e9-4d95-bf76-2f8e6de2de86": {
+                    "scope": "STORED",
+                    "name": "total",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                },
+                "fb4d07c9-b3c4-464b-920d-e81852f168a1": {
+                    "scope": "STORED",
+                    "name": "checking",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                },
+                "e02826bd-7cdf-48d0-a614-9aecb3001330": {
+                    "scope": "STORED",
+                    "name": "savings",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
                 }
             },
             "defaultDesignerDevice": "PHONE",

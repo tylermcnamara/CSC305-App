@@ -1,4 +1,5 @@
 {
+    "id": "1bf1af17-7ffe-4227-987c-a267f00d5391",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -875,7 +876,6 @@
             "name": "imageWelcomeBudgie3"
         }
     ],
-    "id": "1bf1af17-7ffe-4227-987c-a267f00d5391",
     "thunkableVersion": 448,
     "name": "emailResetScreen"
 }

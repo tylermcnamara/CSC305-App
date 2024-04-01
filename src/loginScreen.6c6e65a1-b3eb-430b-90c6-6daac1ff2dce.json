@@ -1,4 +1,5 @@
 {
+    "id": "6c6e65a1-b3eb-430b-90c6-6daac1ff2dce",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -683,7 +684,6 @@
             "name": "Logo"
         }
     ],
-    "id": "6c6e65a1-b3eb-430b-90c6-6daac1ff2dce",
     "thunkableVersion": 447,
     "name": "loginScreen"
 }

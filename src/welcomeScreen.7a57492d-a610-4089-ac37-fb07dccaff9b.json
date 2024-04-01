@@ -1,4 +1,5 @@
 {
+    "id": "7a57492d-a610-4089-ac37-fb07dccaff9b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -895,7 +896,6 @@
             "name": "labelWelcome"
         }
     ],
-    "id": "7a57492d-a610-4089-ac37-fb07dccaff9b",
     "thunkableVersion": 447,
     "name": "welcomeScreen"
 }
