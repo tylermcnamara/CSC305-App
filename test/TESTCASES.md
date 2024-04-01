@@ -6,6 +6,6 @@
 
 US3: Backend Management
 
-US4:
+[US4: Input and Save User Transactions](https://docs.google.com/presentation/d/1ek20dKC19zemdFX2NtOKh3fk-jqduQ3J1t1iW_BD16c/edit?usp=sharing)
 
 [US7:Multi-Factor Authentication](https://docs.google.com/presentation/d/1M8Cwoe0MQDqlKmnEB-4bryrD_69QXCjbP-b6r0DhS1I/edit?usp=sharing)
