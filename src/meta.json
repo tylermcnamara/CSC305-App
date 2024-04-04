@@ -6,6 +6,19 @@
                     "id": "ApiContainer",
                     "children": [
                         {
+                            "type": "Open AI Services",
+                            "translatedName": "Open AI Service",
+                            "isApi": true,
+                            "reactType": "OpenAIServices",
+                            "properties": {
+                                "APIKey": "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"
+                            },
+                            "children": [],
+                            "id": "16fe02f5-70e1-4af3-8a75-af71d6806f79",
+                            "thunkableVersion": 450,
+                            "name": "ChatGPT_BudgetBuilder"
+                        },
+                        {
                             "type": "Alert",
                             "translatedName": "Alert",
                             "isApi": true,
@@ -565,6 +578,11 @@
                 "e02826bd-7cdf-48d0-a614-9aecb3001330": {
                     "scope": "STORED",
                     "name": "savings",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                },
+                "b846d486-23d7-458f-8703-b3a7e187cced": {
+                    "scope": "STORED",
+                    "name": "budget",
                     "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
                 }
             },
