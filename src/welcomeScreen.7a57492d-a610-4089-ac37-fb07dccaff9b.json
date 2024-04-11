@@ -835,7 +835,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Hello name!",
+                "Text": "",
                 "FontSize": 18,
                 "Font": "",
                 "CustomFont": "",
@@ -844,9 +844,9 @@
                 "Height": 35,
                 "Width": 133,
                 "Visible": true,
-                "X": 120,
+                "X": 122,
                 "Y": 134,
-                "RelativeX": 120,
+                "RelativeX": 122,
                 "RelativeY": 134,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -888,7 +888,7 @@
                 "ParentId": "7a57492d-a610-4089-ac37-fb07dccaff9b",
                 "position": "absolute",
                 "edgeOffsets": 134,
-                "children": "Hello name!"
+                "children": ""
             },
             "children": [],
             "id": "e9061080-9514-4b2d-936d-5287abbedb30",
