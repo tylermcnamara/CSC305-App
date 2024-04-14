@@ -859,15 +859,15 @@
             "type": "Image",
             "translatedName": "Image",
             "properties": {
-                "Picture": "parakeet.png",
+                "Picture": "budgiegreen.png",
                 "resizeMode": "stretch",
                 "Height": 50,
                 "Width": 50,
                 "Visible": true,
-                "X": 164,
-                "Y": 34,
-                "RelativeX": 164,
-                "RelativeY": 34,
+                "X": 166,
+                "Y": 33,
+                "RelativeX": 166,
+                "RelativeY": 33,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -894,7 +894,7 @@
                 "capInsets": {},
                 "ParentId": "7a57492d-a610-4089-ac37-fb07dccaff9b",
                 "position": "absolute",
-                "edgeOffsets": 34
+                "edgeOffsets": 33.99999999999999
             },
             "children": [],
             "id": "4b997fc8-4878-4d01-a4af-6972b5725eb7",
