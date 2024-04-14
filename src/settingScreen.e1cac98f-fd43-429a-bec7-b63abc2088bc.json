@@ -2317,7 +2317,7 @@
             "type": "Image",
             "translatedName": "Image",
             "properties": {
-                "Picture": "parakeet.png",
+                "Picture": "budgiegreen.png",
                 "resizeMode": "stretch",
                 "Height": 50,
                 "Width": 50,
