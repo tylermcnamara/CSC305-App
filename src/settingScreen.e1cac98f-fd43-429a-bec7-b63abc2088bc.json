@@ -205,7 +205,8 @@
                         "CustomFont": "",
                         "Height": 37,
                         "Width": 311,
-                        "Visible": false,
+                        "Visible": true,
+
                         "X": 33,
                         "Y": 144,
                         "RelativeX": 33,
@@ -272,7 +273,8 @@
                         "CustomFont": "",
                         "Height": 37,
                         "Width": 311,
-                        "Visible": false,
+                        "Visible": true,
+
                         "X": 31,
                         "Y": 88,
                         "RelativeX": 31,
@@ -409,7 +411,7 @@
                         "Visible": false,
                         "X": 0,
                         "Y": 0,
-                        "RelativeX": 0,
+                        "RelativeX": -2,
                         "RelativeY": 0,
                         "ResizeMode": "STRETCH",
                         "style": {
