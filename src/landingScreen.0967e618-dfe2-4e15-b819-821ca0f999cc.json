@@ -1,4 +1,5 @@
 {
+    "id": "0967e618-dfe2-4e15-b819-821ca0f999cc",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -440,7 +441,6 @@
             "name": "imageMainMenuGif"
         }
     ],
-    "id": "0967e618-dfe2-4e15-b819-821ca0f999cc",
     "thunkableVersion": 452,
     "name": "landingScreen"
 }
