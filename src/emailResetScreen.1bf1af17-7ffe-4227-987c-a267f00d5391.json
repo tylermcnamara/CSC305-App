@@ -700,7 +700,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "E-MAIL",
+                "Text": " Enter New Email",
                 "FontSize": 18,
                 "Font": "",
                 "CustomFont": "",
