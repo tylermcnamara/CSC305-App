@@ -67,7 +67,7 @@
                 "TouchOpacity": 20,
                 "ParentId": "e1cac98f-fd43-429a-bec7-b63abc2088bc",
                 "position": "absolute",
-                "edgeOffsets": 0,
+                "edgeOffsets": -2,
                 "style": {
                     "position": "absolute",
                     "left": "0%",
@@ -77,6 +77,72 @@
                 "resizeMode": "contain"
             },
             "children": [
+                {
+                    "type": "Label",
+                    "translatedName": "Label",
+                    "reactType": "Text",
+                    "properties": {
+                        "Text": "",
+                        "FontSize": 18,
+                        "Font": "",
+                        "CustomFont": "",
+                        "LineHeight": 1,
+                        "Color": "rgba(112, 171, 19, 1)",
+                        "Height": 45,
+                        "Width": 311,
+                        "Visible": true,
+                        "X": 33,
+                        "Y": 264,
+                        "RelativeX": 33,
+                        "RelativeY": 264,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "color": "rgba(112, 171, 19, 1)",
+                            "fontSize": 18,
+                            "fontStyle": "normal",
+                            "textShadowOffset": {},
+                            "letterSpacing": 0,
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textDecorationColor": "rgba(0, 0, 0, 1)",
+                            "writingDirection": "auto",
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "flexWrap": "wrap",
+                            "borderWidth": 0,
+                            "borderRadius": 0,
+                            "borderColor": "rgba(236, 237, 237, 1)",
+                            "borderStyle": "solid",
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "28.666666666666668%",
+                            "top": "42.06802848575712%",
+                            "lineHeight": 1,
+                            "display": "flex"
+                        },
+                        "ParentId": "e1cac98f-fd43-429a-bec7-b63abc2088bc",
+                        "position": "absolute",
+                        "edgeOffsets": 264,
+                        "children": ""
+                    },
+                    "children": [],
+                    "id": "7fff323c-fe61-4536-8cd6-cbc1185306e5",
+                    "thunkableVersion": 452,
+                    "name": "labelResetPassError"
+                },
                 {
                     "type": "Button",
                     "translatedName": "Button",
@@ -139,7 +205,7 @@
                         "CustomFont": "",
                         "Height": 37,
                         "Width": 311,
-                        "Visible": true,
+                        "Visible": false,
                         "X": 33,
                         "Y": 144,
                         "RelativeX": 33,
@@ -179,7 +245,7 @@
                             "position": "absolute",
                             "left": "16.800004069010416%",
                             "top": "42.51873696940592%",
-                            "display": "flex"
+                            "display": "none"
                         },
                         "editable": true,
                         "onChangeText": "function(e){this.properties.Text=e}",
@@ -206,7 +272,7 @@
                         "CustomFont": "",
                         "Height": 37,
                         "Width": 311,
-                        "Visible": true,
+                        "Visible": false,
                         "X": 31,
                         "Y": 88,
                         "RelativeX": 31,
@@ -246,7 +312,7 @@
                             "position": "absolute",
                             "left": "16.800004069010416%",
                             "top": "42.51873696940592%",
-                            "display": "flex"
+                            "display": "none"
                         },
                         "editable": true,
                         "onChangeText": "function(e){this.properties.Text=e}",
@@ -273,7 +339,7 @@
                         "CustomFont": "",
                         "Height": 37,
                         "Width": 311,
-                        "Visible": true,
+                        "Visible": false,
                         "X": 30,
                         "Y": 36,
                         "RelativeX": 30,
@@ -313,7 +379,7 @@
                             "position": "absolute",
                             "left": "16.800004069010416%",
                             "top": "42.51873696940592%",
-                            "display": "flex"
+                            "display": "none"
                         },
                         "editable": true,
                         "onChangeText": "function(e){this.properties.Text=e}",
@@ -338,12 +404,12 @@
                     "properties": {
                         "Picture": "cover.png",
                         "resizeMode": "stretch",
-                        "Height": 600,
-                        "Width": 373,
-                        "Visible": true,
-                        "X": -2,
+                        "Height": 602,
+                        "Width": 375,
+                        "Visible": false,
+                        "X": 0,
                         "Y": 0,
-                        "RelativeX": -2,
+                        "RelativeX": 0,
                         "RelativeY": 0,
                         "ResizeMode": "STRETCH",
                         "style": {
@@ -366,7 +432,7 @@
                             "position": "absolute",
                             "left": "41.68889567057292%",
                             "top": "17.681161860476013%",
-                            "display": "flex"
+                            "display": "none"
                         },
                         "capInsets": {},
                         "ParentId": "e1cac98f-fd43-429a-bec7-b63abc2088bc",
@@ -476,7 +542,7 @@
                     "id": "fee58c70-a8c1-4e31-bbb1-848f768287f9",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "inputName1"
+                    "name": "inputPhone"
                 },
                 {
                     "type": "Label",
@@ -597,7 +663,7 @@
                     "id": "0cbef214-2bbd-44be-89da-ed2a3561578e",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonConfirmEmail"
+                    "name": "buttonConfirmPhone"
                 },
                 {
                     "type": "Image",

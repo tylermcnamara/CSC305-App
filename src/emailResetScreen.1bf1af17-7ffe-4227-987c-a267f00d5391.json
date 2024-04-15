@@ -767,7 +767,7 @@
             "type": "TextInput",
             "translatedName": "Text Input",
             "properties": {
-                "Hint": "",
+                "Hint": "Please enter your email...",
                 "CustomFont": "",
                 "Height": 37,
                 "Width": 311,
@@ -821,7 +821,7 @@
                 "ParentId": "1bf1af17-7ffe-4227-987c-a267f00d5391",
                 "position": "absolute",
                 "edgeOffsets": 209,
-                "placeholder": ""
+                "placeholder": "Please enter your email..."
             },
             "children": [],
             "id": "ffb8b922-2309-450e-b523-fcedab956bf7",
