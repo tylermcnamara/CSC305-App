@@ -1452,7 +1452,7 @@
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "DATE",
+                "Text": "INPUT",
                 "TextColor": "rgba(255, 255, 255, 1)",
                 "FontSize": 16,
                 "Font": "",
