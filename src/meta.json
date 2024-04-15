@@ -6,6 +6,19 @@
                     "id": "ApiContainer",
                     "children": [
                         {
+                            "type": "Open AI Services",
+                            "translatedName": "Open AI Service",
+                            "isApi": true,
+                            "reactType": "OpenAIServices",
+                            "properties": {
+                                "APIKey": "{Enter Your API Key Here}"
+                            },
+                            "children": [],
+                            "id": "b22b01d7-509d-496b-a9f4-09e91dcba55e",
+                            "thunkableVersion": 452,
+                            "name": "Open_AI_Service1"
+                        },
+                        {
                             "type": "Web API",
                             "translatedName": "Web API",
                             "isApi": true,
@@ -24,7 +37,7 @@
                             "isApi": true,
                             "reactType": "OpenAIServices",
                             "properties": {
-                                "APIKey": "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"
+                                "APIKey": "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"
                             },
                             "children": [],
                             "id": "16fe02f5-70e1-4af3-8a75-af71d6806f79",
@@ -1091,6 +1104,16 @@
                 "b846d486-23d7-458f-8703-b3a7e187cced": {
                     "scope": "STORED",
                     "name": "budget",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                },
+                "c0fcfc69-6f7f-49ee-9141-df6c75b722fa": {
+                    "scope": "STORED",
+                    "name": "amounts",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                },
+                "ec8b5ef4-11f8-44dd-b8e2-b1623c94554a": {
+                    "scope": "STORED",
+                    "name": "categories",
                     "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
                 }
             },
