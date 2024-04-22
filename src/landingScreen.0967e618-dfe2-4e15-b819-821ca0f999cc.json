@@ -250,10 +250,10 @@
                 "Height": 49,
                 "Width": 313,
                 "Visible": true,
-                "X": 32,
-                "Y": 574,
-                "RelativeX": 32,
-                "RelativeY": 574,
+                "X": 34,
+                "Y": 599,
+                "RelativeX": 34,
+                "RelativeY": 599,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -286,7 +286,7 @@
                 "Disabled": false,
                 "ParentId": "0967e618-dfe2-4e15-b819-821ca0f999cc",
                 "position": "absolute",
-                "edgeOffsets": 573
+                "edgeOffsets": 599
             },
             "children": [],
             "id": "b2db7fcd-c682-4ec9-a91f-751e1bb9b982",
@@ -308,9 +308,9 @@
                 "Width": 315,
                 "Visible": true,
                 "X": 32,
-                "Y": 514,
+                "Y": 540,
                 "RelativeX": 32,
-                "RelativeY": 514,
+                "RelativeY": 540,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -341,7 +341,7 @@
                 "Disabled": false,
                 "ParentId": "0967e618-dfe2-4e15-b819-821ca0f999cc",
                 "position": "absolute",
-                "edgeOffsets": 514
+                "edgeOffsets": 540
             },
             "children": [],
             "id": "5c0e4722-7832-4053-b1da-a2098291ba3b",
@@ -354,12 +354,12 @@
             "properties": {
                 "Picture": "greenblock.png",
                 "resizeMode": "stretch",
-                "Height": 315,
-                "Width": 377,
+                "Height": 321,
+                "Width": 376,
                 "Visible": true,
-                "X": 0,
+                "X": 0.8000030517578125,
                 "Y": 370,
-                "RelativeX": 0,
+                "RelativeX": 0.8000030517578125,
                 "RelativeY": 370,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -387,7 +387,7 @@
                 "capInsets": {},
                 "ParentId": "0967e618-dfe2-4e15-b819-821ca0f999cc",
                 "position": "absolute",
-                "edgeOffsets": 370
+                "edgeOffsets": 370.79998779296875
             },
             "children": [],
             "id": "1237d323-8f61-4c5d-ba28-9d0a142aefda",

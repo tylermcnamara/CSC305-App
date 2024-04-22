@@ -206,7 +206,6 @@
                         "Height": 37,
                         "Width": 311,
                         "Visible": true,
-
                         "X": 33,
                         "Y": 144,
                         "RelativeX": 33,
@@ -274,7 +273,6 @@
                         "Height": 37,
                         "Width": 311,
                         "Visible": true,
-
                         "X": 31,
                         "Y": 88,
                         "RelativeX": 31,
@@ -1265,7 +1263,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "123-456-7890",
+                "Text": "",
                 "FontSize": 18,
                 "Font": "",
                 "CustomFont": "",
@@ -1321,7 +1319,7 @@
                 "ParentId": "e1cac98f-fd43-429a-bec7-b63abc2088bc",
                 "position": "absolute",
                 "edgeOffsets": 251.00000000000003,
-                "children": "123-456-7890"
+                "children": ""
             },
             "children": [],
             "id": "24bb46a3-8621-4180-bd3b-c84454cc44b5",
@@ -1334,7 +1332,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "jsmith@gmail.com",
+                "Text": "",
                 "FontSize": 18,
                 "Font": "",
                 "CustomFont": "",
@@ -1390,7 +1388,7 @@
                 "ParentId": "e1cac98f-fd43-429a-bec7-b63abc2088bc",
                 "position": "absolute",
                 "edgeOffsets": 332,
-                "children": "jsmith@gmail.com"
+                "children": ""
             },
             "children": [],
             "id": "c5504bfa-6f5a-4442-8ade-7ca66a0ff5dd",
@@ -1403,7 +1401,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "John Smith",
+                "Text": "",
                 "FontSize": 18,
                 "Font": "",
                 "CustomFont": "",
@@ -1459,7 +1457,7 @@
                 "ParentId": "e1cac98f-fd43-429a-bec7-b63abc2088bc",
                 "position": "absolute",
                 "edgeOffsets": 163,
-                "children": "John Smith"
+                "children": ""
             },
             "children": [],
             "id": "1bc0759b-2e1b-4ee0-894c-6668d889394a",
