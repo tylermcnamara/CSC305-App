@@ -1566,9 +1566,9 @@
                 "Width": 152,
                 "Visible": true,
                 "X": 29,
-                "Y": 242,
+                "Y": 251,
                 "RelativeX": 29,
-                "RelativeY": 242,
+                "RelativeY": 251,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(112, 171, 19, 1)",
@@ -1610,7 +1610,7 @@
                 },
                 "ParentId": "e1cac98f-fd43-429a-bec7-b63abc2088bc",
                 "position": "absolute",
-                "edgeOffsets": 242.99999999999997,
+                "edgeOffsets": 251,
                 "children": "PHONE-NUMBER",
                 "FontWeight": "bold"
             },
