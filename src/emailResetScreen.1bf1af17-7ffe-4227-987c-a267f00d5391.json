@@ -834,13 +834,13 @@
             "properties": {
                 "Picture": "budgiegreen.png",
                 "resizeMode": "stretch",
-                "Height": 50,
-                "Width": 50,
+                "Height": 52,
+                "Width": 52,
                 "Visible": true,
-                "X": 164,
-                "Y": 34,
-                "RelativeX": 164,
-                "RelativeY": 34,
+                "X": 164.8000030517578,
+                "Y": 34.80000305175781,
+                "RelativeX": 164.8000030517578,
+                "RelativeY": 34.80000305175781,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -867,7 +867,7 @@
                 "capInsets": {},
                 "ParentId": "7a57492d-a610-4089-ac37-fb07dccaff9b",
                 "position": "absolute",
-                "edgeOffsets": 34
+                "edgeOffsets": 34.80000305175781
             },
             "children": [],
             "id": "60a82409-b188-4560-9b10-a2882e988013",
