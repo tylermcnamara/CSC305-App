@@ -250,9 +250,9 @@
                 "Height": 49,
                 "Width": 313,
                 "Visible": true,
-                "X": 34,
+                "X": 30,
                 "Y": 599,
-                "RelativeX": 34,
+                "RelativeX": 30,
                 "RelativeY": 599,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -357,9 +357,9 @@
                 "Height": 346,
                 "Width": 380,
                 "Visible": true,
-                "X": 0.8000030517578125,
+                "X": 0,
                 "Y": 323,
-                "RelativeX": 0.8000030517578125,
+                "RelativeX": 0,
                 "RelativeY": 323,
                 "ResizeMode": "STRETCH",
                 "style": {
