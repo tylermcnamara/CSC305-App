@@ -1,5 +1,4 @@
 {
-    "id": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -7,7 +6,6 @@
         "Height": "Fill container",
         "Width": "Fill container",
         "Layout": "column",
-        "BackgroundColor": "rgba(249, 249, 243, 1)",
         "Justification": "center",
         "Alignment": "center",
         "Visible": true,
@@ -31,21 +29,29 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex",
-            "backgroundColor": "rgba(249, 249, 243, 1)"
+            "display": "flex"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(249, 249, 243, 0.53)",
+        "StatusBarColor": "rgba(249, 249, 243, 1)",
         "TabNavigationOptions": {
             "tabBarVisible": true
+        },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
         },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {}
     },
     "children": [
         {
@@ -127,10 +133,10 @@
                         "edgeOffsets": 603
                     },
                     "children": [],
-                    "id": "22f44de4-9102-4bbc-9a62-b044cf473f69",
+                    "id": "4dcd2abe-4e13-474d-9371-a7870eff0787",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonProfile2"
+                    "name": "buttonProfile3"
                 },
                 {
                     "type": "Button",
@@ -182,10 +188,10 @@
                         "edgeOffsets": 603
                     },
                     "children": [],
-                    "id": "5cd3cf42-c605-4c1b-855b-e4e0dd4b0d44",
+                    "id": "c22bc2bc-bdef-48ca-aa36-303bbc2a643d",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonLight2"
+                    "name": "buttonLight3"
                 },
                 {
                     "type": "Button",
@@ -237,10 +243,10 @@
                         "edgeOffsets": 601.9999999999999
                     },
                     "children": [],
-                    "id": "6c43db65-62d9-41fd-9fe8-27e9dda77982",
+                    "id": "c7e1c553-b3a4-48d4-ac70-2fbbff798602",
                     "thunkableVersion": 454,
                     "bindings": null,
-                    "name": "buttonSub2"
+                    "name": "buttonSub3"
                 },
                 {
                     "type": "Button",
@@ -292,10 +298,10 @@
                         "edgeOffsets": 603
                     },
                     "children": [],
-                    "id": "811749f3-958e-4a91-bd9f-905e47f1d13b",
+                    "id": "623cff44-db81-4da3-b848-d883413c81f3",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonPie2"
+                    "name": "buttonPie3"
                 },
                 {
                     "type": "Button",
@@ -347,10 +353,10 @@
                         "edgeOffsets": 512.0000000000001
                     },
                     "children": [],
-                    "id": "a0889132-afc0-44e8-a9b8-19a3138abee0",
+                    "id": "49032b4a-ddfd-4758-a42c-3950a4539dcf",
                     "thunkableVersion": 450,
                     "bindings": null,
-                    "name": "buttonList2"
+                    "name": "buttonList3"
                 },
                 {
                     "type": "Button",
@@ -402,9 +408,9 @@
                         "edgeOffsets": 511.9999999999999
                     },
                     "children": [],
-                    "id": "c4248aa1-a6ec-4514-8ba2-a08e2d20c316",
+                    "id": "5ee881c8-e4d7-49fd-9c6b-e9dbb1cd5af6",
                     "thunkableVersion": 450,
-                    "name": "buttonHome2"
+                    "name": "buttonHome3"
                 },
                 {
                     "type": "Image",
@@ -448,9 +454,9 @@
                         "edgeOffsets": 519
                     },
                     "children": [],
-                    "id": "523b0f87-d241-410f-949e-860544a19e69",
+                    "id": "a8965a1c-8520-4296-94a0-c32905e94909",
                     "thunkableVersion": 450,
-                    "name": "imageProfile2"
+                    "name": "imageProfile3"
                 },
                 {
                     "type": "Image",
@@ -494,9 +500,9 @@
                         "edgeOffsets": 503.0000000000001
                     },
                     "children": [],
-                    "id": "69d8acf9-8247-458c-ab26-7d65799444a7",
+                    "id": "9371ae46-bcc4-455b-a17b-86223356219b",
                     "thunkableVersion": 450,
-                    "name": "imageLight2"
+                    "name": "imageLight3"
                 },
                 {
                     "type": "Image",
@@ -540,10 +546,10 @@
                         "edgeOffsets": 503.0000000000001
                     },
                     "children": [],
-                    "id": "c1cfadec-fd12-434f-8c40-fabfc9ceca02",
+                    "id": "982e1862-0c4d-4792-9054-75f18f2535cf",
                     "thunkableVersion": 454,
                     "bindings": null,
-                    "name": "imageSub2"
+                    "name": "imageSub3"
                 },
                 {
                     "type": "Image",
@@ -587,9 +593,9 @@
                         "edgeOffsets": 494
                     },
                     "children": [],
-                    "id": "61daa927-98bc-4951-8df3-b2c2145df0dc",
+                    "id": "cca00a16-48ab-49a5-a599-beb5d03bb01c",
                     "thunkableVersion": 450,
-                    "name": "imagePie2"
+                    "name": "imagePie3"
                 },
                 {
                     "type": "Image",
@@ -633,9 +639,9 @@
                         "edgeOffsets": 527
                     },
                     "children": [],
-                    "id": "3497a565-92a5-4732-86c4-e73ecc12b18c",
+                    "id": "33ee071b-7ff9-4c2e-ae2b-592181d7eaff",
                     "thunkableVersion": 450,
-                    "name": "imageList2"
+                    "name": "imageList3"
                 },
                 {
                     "type": "Image",
@@ -679,452 +685,18 @@
                         "edgeOffsets": 519
                     },
                     "children": [],
-                    "id": "bde29a04-06aa-4e50-b95a-9a9ec1187dc2",
+                    "id": "f9b68d53-0ed7-4a43-969f-dd8030ba36f2",
                     "thunkableVersion": 450,
-                    "name": "imageHome2"
+                    "name": "imageHome3"
                 }
             ],
-            "id": "c749edef-e0db-485b-a989-1eeccfe90f0d",
+            "id": "d5c95033-7c23-4b48-aaa2-99175e61df94",
             "thunkableVersion": 454,
             "bindings": null,
-            "name": "groupHud2"
-        },
-        {
-            "type": "Button",
-            "translatedName": "Button",
-            "properties": {
-                "Text": "",
-                "TextColor": "#FFFFFF",
-                "FontSize": 16,
-                "Font": "",
-                "CustomFont": "",
-                "BackgroundColor": "rgba(208, 2, 27, 1)",
-                "Height": 15,
-                "Width": 13,
-                "Visible": true,
-                "X": 232,
-                "Y": 68,
-                "RelativeX": 232,
-                "RelativeY": 68,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "borderRadius": 15,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "65.46666666666667%",
-                    "top": "3.7481259370314843%",
-                    "display": "flex"
-                },
-                "FontBold": false,
-                "FontItalic": false,
-                "Raised": false,
-                "Disabled": false,
-                "ParentId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
-                "position": "absolute",
-                "edgeOffsets": 68
-            },
-            "children": [],
-            "id": "3d89a15d-a24e-48ff-8eb4-3bd890294a6e",
-            "thunkableVersion": 452,
-            "name": "staus"
-        },
-        {
-            "type": "Label",
-            "translatedName": "Label",
-            "reactType": "Text",
-            "properties": {
-                "Text": "Label",
-                "FontSize": 18,
-                "Font": "",
-                "CustomFont": "",
-                "LineHeight": 1,
-                "Color": "rgba(249, 249, 243, 1)",
-                "Height": 64,
-                "Width": 117,
-                "Visible": true,
-                "X": 22,
-                "Y": 12,
-                "RelativeX": 22,
-                "RelativeY": 12,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "color": "rgba(249, 249, 243, 1)",
-                    "fontSize": 18,
-                    "fontStyle": "normal",
-                    "textShadowOffset": {},
-                    "letterSpacing": 0,
-                    "textDecorationLine": "none",
-                    "textDecorationStyle": "solid",
-                    "textDecorationColor": "rgba(0, 0, 0, 1)",
-                    "writingDirection": "auto",
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "flexWrap": "wrap",
-                    "borderWidth": 0,
-                    "borderRadius": 0,
-                    "borderColor": "rgba(236, 237, 237, 1)",
-                    "borderStyle": "solid",
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "11.333333333333334%",
-                    "top": "32.38380809595203%",
-                    "lineHeight": 1,
-                    "display": "flex"
-                },
-                "ParentId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
-                "position": "absolute",
-                "edgeOffsets": 12.999999999999996,
-                "children": "Label"
-            },
-            "children": [],
-            "id": "28f23bad-cff7-4732-b618-f90480236561",
-            "thunkableVersion": 452,
-            "name": "Label1"
-        },
-        {
-            "type": "Button",
-            "translatedName": "Button",
-            "properties": {
-                "Text": "Close Chart",
-                "TextColor": "#FFFFFF",
-                "FontSize": 16,
-                "Font": "",
-                "CustomFont": "",
-                "BackgroundColor": "rgba(112, 171, 19, 1)",
-                "Height": 46,
-                "Width": 159,
-                "Visible": false,
-                "X": 108,
-                "Y": 529,
-                "RelativeX": 108,
-                "RelativeY": 529,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "borderRadius": 15,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "26.83399932151224%",
-                    "top": "72.85475778011231%",
-                    "display": "none"
-                },
-                "FontBold": false,
-                "FontItalic": false,
-                "Raised": false,
-                "Disabled": false,
-                "ParentId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
-                "position": "absolute",
-                "edgeOffsets": 529
-            },
-            "children": [],
-            "id": "03e7e90e-673d-4175-9519-42eab7f6bbd5",
-            "thunkableVersion": 451,
-            "name": "closeChartBttn"
-        },
-        {
-            "type": "Button",
-            "translatedName": "Button",
-            "properties": {
-                "Text": "Generate Chart",
-                "TextColor": "#FFFFFF",
-                "FontSize": 16,
-                "Font": "",
-                "CustomFont": "",
-                "BackgroundColor": "rgba(112, 171, 19, 1)",
-                "Height": 40,
-                "Width": 141,
-                "Visible": true,
-                "X": 48,
-                "Y": 141,
-                "RelativeX": 48,
-                "RelativeY": 141,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "borderRadius": 15,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "13.076923076923077%",
-                    "top": "31.609194222390116%",
-                    "display": "flex"
-                },
-                "FontBold": false,
-                "FontItalic": false,
-                "Raised": false,
-                "Disabled": false,
-                "ParentId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
-                "position": "absolute",
-                "edgeOffsets": 141
-            },
-            "children": [],
-            "id": "1373b742-329d-4731-a20a-6c646de16f06",
-            "thunkableVersion": 451,
-            "name": "generateChart"
-        },
-        {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "Picture": "chart.png",
-                "resizeMode": "stretch",
-                "Height": 51,
-                "Width": 73,
-                "Visible": true,
-                "X": 221,
-                "Y": 136,
-                "RelativeX": 221,
-                "RelativeY": 136,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "27.6%",
-                    "top": "32.923539145954365%",
-                    "display": "flex"
-                },
-                "capInsets": {},
-                "ParentId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
-                "position": "absolute",
-                "edgeOffsets": 136.00000000000003
-            },
-            "children": [],
-            "id": "29bb24d2-64d9-406c-9d1f-57d98742d7a3",
-            "thunkableVersion": 448,
-            "name": "chartIcon"
-        },
-        {
-            "type": "Label",
-            "translatedName": "Label",
-            "reactType": "Text",
-            "properties": {
-                "Text": "Build a budget!",
-                "FontSize": 18,
-                "Font": "Montserrat",
-                "CustomFont": "",
-                "LineHeight": 1,
-                "Color": "rgba(112, 171, 19, 1)",
-                "TextAlign": "center",
-                "Height": 25,
-                "Width": 285,
-                "Visible": true,
-                "X": 49,
-                "Y": 105,
-                "RelativeX": 49,
-                "RelativeY": 105,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "color": "rgba(112, 171, 19, 1)",
-                    "fontSize": 18,
-                    "fontStyle": "normal",
-                    "textShadowOffset": {},
-                    "letterSpacing": 0,
-                    "textDecorationLine": "none",
-                    "textDecorationStyle": "solid",
-                    "textDecorationColor": "rgba(0, 0, 0, 1)",
-                    "writingDirection": "auto",
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "flexWrap": "wrap",
-                    "borderWidth": 0,
-                    "borderRadius": 0,
-                    "borderColor": "rgba(236, 237, 237, 1)",
-                    "borderStyle": "solid",
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "0.13333333333333333%",
-                    "top": "15.382305185297977%",
-                    "lineHeight": 1,
-                    "display": "flex",
-                    "textAlign": "center"
-                },
-                "ParentId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf",
-                "position": "absolute",
-                "edgeOffsets": 105,
-                "children": "Build a budget!"
-            },
-            "children": [],
-            "id": "e4a7e96c-9c9a-46c4-bb8f-a99fb3bc5098",
-            "thunkableVersion": 448,
-            "name": "labelBudgetOverview"
-        },
-        {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "Picture": "",
-                "resizeMode": "stretch",
-                "Height": 311,
-                "Width": 311,
-                "Visible": false,
-                "X": 36,
-                "Y": 210,
-                "RelativeX": 36,
-                "RelativeY": 210,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "18.07021827028509%",
-                    "top": "24.339148000144966%",
-                    "display": "none"
-                },
-                "capInsets": {},
-                "ParentId": "bae5de86-07d1-46d1-b136-630f346209cf",
-                "position": "absolute",
-                "edgeOffsets": 210.99999999999994
-            },
-            "children": [],
-            "id": "d6dce392-a4a0-4539-8fc8-6e80bf3e6b12",
-            "thunkableVersion": 451,
-            "name": "budgetChart"
-        },
-        {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "Picture": "budgiegreen.png",
-                "resizeMode": "stretch",
-                "Height": 50,
-                "Width": 50,
-                "Visible": true,
-                "X": 166,
-                "Y": 33,
-                "RelativeX": 166,
-                "RelativeY": 33,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "28.666666666666668%",
-                    "top": "2.6386769993909294%",
-                    "display": "flex"
-                },
-                "capInsets": {},
-                "ParentId": "7a57492d-a610-4089-ac37-fb07dccaff9b",
-                "position": "absolute",
-                "edgeOffsets": 33.99999999999999
-            },
-            "children": [],
-            "id": "4b997fc8-4878-4d01-a4af-6972b5725eb7",
-            "thunkableVersion": 448,
-            "bindings": null,
-            "name": "imageWelcomeBudgie2"
+            "name": "groupHud3"
         }
     ],
-    "thunkableVersion": 448,
-    "name": "budgetScreen"
+    "id": "534fc6bd-c031-4be2-b4b0-c5d809ef4c98",
+    "thunkableVersion": 454,
+    "name": "subscriptionScreen"
 }
