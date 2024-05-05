@@ -1,4 +1,5 @@
 {
+    "id": "534fc6bd-c031-4be2-b4b0-c5d809ef4c98",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -29,7 +30,8 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex"
+            "display": "flex",
+            "backgroundColor": "rgba(249, 249, 243, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -51,7 +53,8 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {},
+        "BackgroundColor": "rgba(249, 249, 243, 1)"
     },
     "children": [
         {
@@ -696,7 +699,6 @@
             "name": "groupHud3"
         }
     ],
-    "id": "534fc6bd-c031-4be2-b4b0-c5d809ef4c98",
     "thunkableVersion": 454,
     "name": "subscriptionScreen"
 }
