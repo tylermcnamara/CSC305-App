@@ -11,6 +11,19 @@
                             "isApi": true,
                             "reactType": "OpenAIServices",
                             "properties": {
+                                "APIKey": "{Enter Your API Key Here}"
+                            },
+                            "children": [],
+                            "id": "20ad6859-99c1-4fc8-ba5a-5ace186763b7",
+                            "thunkableVersion": 454,
+                            "name": "Open_AI_Service2"
+                        },
+                        {
+                            "type": "Open AI Services",
+                            "translatedName": "Open AI Service",
+                            "isApi": true,
+                            "reactType": "OpenAIServices",
+                            "properties": {
                                 "APIKey": ""
                             },
                             "children": [],
@@ -1794,7 +1807,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "2",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
