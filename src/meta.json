@@ -1871,9 +1871,9 @@
                     "name": "baseURL",
                     "screenId": "6c6e65a1-b3eb-430b-90c6-6daac1ff2dce"
                 },
-                "5c599751-8fc2-4f99-9745-7c7e272cb52b": {
-                    "scope": "APP",
-                    "name": "randomInt",
+                "a4d0e686-a9f0-4f84-b271-6c6de01c558d": {
+                    "scope": "STORED",
+                    "name": "transactionTrack",
                     "screenId": "7b1ea2f9-507f-4a2b-b490-fe3d1a328953"
                 }
             },
