@@ -6,32 +6,6 @@
                     "id": "ApiContainer",
                     "children": [
                         {
-                            "type": "Open AI Services",
-                            "translatedName": "Open AI Service",
-                            "isApi": true,
-                            "reactType": "OpenAIServices",
-                            "properties": {
-                                "APIKey": "{Enter Your API Key Here}"
-                            },
-                            "children": [],
-                            "id": "20ad6859-99c1-4fc8-ba5a-5ace186763b7",
-                            "thunkableVersion": 454,
-                            "name": "Open_AI_Service2"
-                        },
-                        {
-                            "type": "Open AI Services",
-                            "translatedName": "Open AI Service",
-                            "isApi": true,
-                            "reactType": "OpenAIServices",
-                            "properties": {
-                                "APIKey": ""
-                            },
-                            "children": [],
-                            "id": "b22b01d7-509d-496b-a9f4-09e91dcba55e",
-                            "thunkableVersion": 452,
-                            "name": "Open_AI_Service1"
-                        },
-                        {
                             "type": "Web API",
                             "translatedName": "Web API",
                             "isApi": true,
@@ -1248,6 +1222,22 @@
                     "__v": 0,
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd94b1e794aa09d9ac3d/projects/661c76f90b5652a83bdf896b/assets/6637e93e5a9d6b0fd99a3346?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240505%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240505T201702Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=23d935b9d1e534dcb94d1606f33f4f0eee819c7c3f8f367863136f014af7f2f2be4321958ba0e8765d6c307461ffcfe5ed4029351c3c1a5d3d2a9b460a94ca36832549b62aedc341dc41a56e6f0ea5214440506add1b816dabe34d8270dc2d77a5408855d8997de25c4fc69f523486f6a3f5787963afe7d7a61459686582c78c333798339ed13c2daaa6c6200fe99194ff790fd6d31d9ec835d5180ac432906afecc644ab8ae2fad01f74f510d8cbfac014b6614aff9871863b5ae1a537abc767191742b59bc420f2acb538d1f9c63ad424774a8a8aa0e509a0407da454f2a85ef7ee003880154aae326d9470be5af4b429265435b8833fcc9bb29b2a014f986",
                     "signedUrlExpirationTime": 1715113022968
+                },
+                "6638f8d53bdba0cc6401ac27": {
+                    "externalStorageType": "GCS",
+                    "_id": "6638f8d53bdba0cc6401ac27",
+                    "size": "72191",
+                    "mimetype": "image/gif",
+                    "encoding": "7bit",
+                    "originalname": "loading.gif",
+                    "backendURI": "/project/661d7c0c8ba41d19dacf3231/getasset/6638f8d53bdba0cc6401ac27",
+                    "name": "loading.gif",
+                    "externalName": "users/65b29301cce769cfc3a95483/projects/661d7c0c8ba41d19dacf3231/assets/6638f8d53bdba0cc6401ac27",
+                    "createdAt": "2024-05-06T15:35:50.037Z",
+                    "updatedAt": "2024-05-06T15:35:50.037Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b29301cce769cfc3a95483/projects/661d7c0c8ba41d19dacf3231/assets/6638f8d53bdba0cc6401ac27?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240506%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240506T153550Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=969ed080250d140b3b03ea59840ded7e104037849ea017f7504577cfdb3fd08b106534fb439014328445f0cb409c8af95aa4b25036da03bfce8b68d4fa8f60fdf0e6b1bf13d7295c51ca507a7be0614bbfcfbfa76879f62d1599c8c6b2c9c9438e0a47e012146d6c17c26e6aac70204b3537fcd334c9981272b25675eeb30ba6942296b9fe5c81bb2e8e229ddf594e9fe35ea02b2c01138cf665d6fffb488591eb0d469bb2883315ee2bb2cf9a964c399cb3ef8082a3f84d02a6ff8b44f065476e8c6d4b11e60dd45a21dc9f266e2f0f44722868325a30c851479526f163a15e89252fd850a5a552f1e2257953e94edc928b495233ef400711ff2f88472494f0",
+                    "signedUrlExpirationTime": 1715182550127
                 }
             },
             "backendUpgradeVersion": 25,
@@ -1875,6 +1865,11 @@
                     "scope": "STORED",
                     "name": "transactionTrack",
                     "screenId": "7b1ea2f9-507f-4a2b-b490-fe3d1a328953"
+                },
+                "e55dd653-186c-49f8-81bc-49731ba98cc2": {
+                    "scope": "STORED",
+                    "name": "budgetPref",
+                    "screenId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf"
                 }
             },
             "defaultDesignerDevice": "PHONE",
