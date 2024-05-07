@@ -1813,7 +1813,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "10",
+            "totalCopy": "1",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -1906,6 +1906,21 @@
                     "scope": "APP",
                     "name": "counter",
                     "screenId": "7b1ea2f9-507f-4a2b-b490-fe3d1a328953"
+                },
+                "6819b598-0944-4c91-bff4-fc6f310c1ec1": {
+                    "scope": "STORED",
+                    "name": "subTrack",
+                    "screenId": "534fc6bd-c031-4be2-b4b0-c5d809ef4c98"
+                },
+                "50207d3b-67e5-46b8-a89a-5a7683dd7228": {
+                    "scope": "APP",
+                    "name": "counter2",
+                    "screenId": "534fc6bd-c031-4be2-b4b0-c5d809ef4c98"
+                },
+                "f4bf41ed-25a3-421a-bc63-24007e779c8b": {
+                    "scope": "STORED",
+                    "name": "chartPref",
+                    "screenId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf"
                 }
             },
             "defaultDesignerDevice": "PHONE",
