@@ -24,7 +24,7 @@
                             "isApi": true,
                             "reactType": "OpenAIServices",
                             "properties": {
-                                "APIKey": "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"
+                                "APIKey": ""
                             },
                             "children": [],
                             "id": "16fe02f5-70e1-4af3-8a75-af71d6806f79",
@@ -1236,8 +1236,8 @@
                     "createdAt": "2024-05-06T15:35:50.037Z",
                     "updatedAt": "2024-05-06T15:35:50.037Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b29301cce769cfc3a95483/projects/661d7c0c8ba41d19dacf3231/assets/6638f8d53bdba0cc6401ac27?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240506%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240506T153550Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=969ed080250d140b3b03ea59840ded7e104037849ea017f7504577cfdb3fd08b106534fb439014328445f0cb409c8af95aa4b25036da03bfce8b68d4fa8f60fdf0e6b1bf13d7295c51ca507a7be0614bbfcfbfa76879f62d1599c8c6b2c9c9438e0a47e012146d6c17c26e6aac70204b3537fcd334c9981272b25675eeb30ba6942296b9fe5c81bb2e8e229ddf594e9fe35ea02b2c01138cf665d6fffb488591eb0d469bb2883315ee2bb2cf9a964c399cb3ef8082a3f84d02a6ff8b44f065476e8c6d4b11e60dd45a21dc9f266e2f0f44722868325a30c851479526f163a15e89252fd850a5a552f1e2257953e94edc928b495233ef400711ff2f88472494f0",
-                    "signedUrlExpirationTime": 1715182550127
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b29301cce769cfc3a95483/projects/661d7c0c8ba41d19dacf3231/assets/6638f8d53bdba0cc6401ac27?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240507%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240507T153723Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=ac28be1c061dbfeae0c1bad5a6275eab58d06651b1522ac81b31ab8a4d4e49140eefd61f37775b7153dfe2afe525b749a7e16d69f0643ece3a8fb76157846210d7e5431b8bade9b16e81fffb75e7245c3fa0ec5955dd8c347b42c08f6c86012d0bfc22655cc024d6a1e9be602847fabc6fc69c535ae7d607f9f4a558996b99a9b268f217d50fb84c137d9387efc0f766827710f82328e84949c515266b4a8921e2aee84f0fd4fbb1405d223878846f11965beb6118049bbbdba88e615ff6446a4f2f0bfd9168a2945586854b0329bf0d42c4436bc964bafbb38d3c19b1930889af25336ac8a533af63ab040e19e8c370175369e17e925dcf60dcdde21a8409ab",
+                    "signedUrlExpirationTime": 1715269043330
                 },
                 "663a2808a1856fc9b242c86f": {
                     "externalStorageType": "GCS",
@@ -1813,7 +1813,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "10",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -1886,6 +1886,26 @@
                     "scope": "STORED",
                     "name": "budgetPref",
                     "screenId": "67b9ded3-d6e3-4a04-bb0a-c09cf28aa1cf"
+                },
+                "cedc11d7-b2fc-4b5d-97d6-1e768fc1f23b": {
+                    "scope": "CLOUD",
+                    "name": "checking",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                },
+                "20973bb9-7545-496e-a2e2-98089b23c834": {
+                    "scope": "CLOUD",
+                    "name": "savings",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                },
+                "8667acb5-6f5d-4b0a-a027-e4d77d982d55": {
+                    "scope": "CLOUD",
+                    "name": "total",
+                    "screenId": "7a57492d-a610-4089-ac37-fb07dccaff9b"
+                },
+                "56199f15-8444-4761-92a3-48f16ce66ed7": {
+                    "scope": "APP",
+                    "name": "counter",
+                    "screenId": "7b1ea2f9-507f-4a2b-b490-fe3d1a328953"
                 }
             },
             "defaultDesignerDevice": "PHONE",
