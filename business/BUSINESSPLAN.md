@@ -8,6 +8,5 @@ The Lean Canvas design encourages speed and dynamic design as a dynamic model in
 
 ## Our Lean Canvas
 
-https://docs.google.com/presentation/d/1pf5XDgI6lr-Unzc6Dkzjjwr7oLGorC-eTHNLWzooHRA/edit?usp=sharing
-
+https://docs.google.com/presentation/d/1HW9xRJhr9NLNgRdZWWe0pK_aUVj7nSWJsaYeEPX3LEA/edit?usp=sharing
 
